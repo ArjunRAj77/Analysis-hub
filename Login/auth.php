@@ -12,7 +12,7 @@ if(count($_POST)>0) {
 		
 	} else {
 		$message = "You are successfully authenticated!";
-		header('location: ../Dashboard/index.html');
+		header('location: ../Dashboard/index.php');
 	}
 	
 }
