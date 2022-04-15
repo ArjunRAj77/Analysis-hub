@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>KYC & Due Diligence | Analysis Hub</title>
+    <title>Dashboard | Analysis Hub</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- favicon
@@ -81,22 +81,45 @@
                         <li class="active">
                             <a class="has-arrow" href="index.html">
 								   <span class="educate-icon educate-home icon-wrap"></span>
-								   <span class="mini-click-non">Home</span>
+								   <span class="mini-click-non">Data</span>
 								</a>
-                        </li>
-                        <li>
-                            <a class="has-arrow" href="all-courses.html" aria-expanded="false"><span class="educate-icon educate-library icon-wrap"></span> <span class="mini-click-non">Services</span></a>
-                            <ul class="submenu-angle" aria-expanded="false">
-                                <li><a title="All Library" href="risk-profile.html"><span class="mini-sub-pro">Risk Profiling</span></a></li>
-                                <li><a title="Add Library" href="money-launder.html"><span class="mini-sub-pro">Money Laundering</span></a></li>
-                                <li><a title="Edit Library" href="kyc.html"><span class="mini-sub-pro">KYC Due diligence</span></a></li>
-                                <li><a title="Edit Library" href="traffic-analysis.html"><span class="mini-sub-pro">Traffic Analysis</span></a></li>
+                            <ul class="submenu-angle" aria-expanded="true">
+                                <li><a title="Analytics" href="analytics.html"><span class="mini-sub-pro">Analytics</span></a></li>
+                                <li><a title="Widgets" href="widgets.html"><span class="mini-sub-pro">Widgets</span></a></li>
                             </ul>
                         </li>
                         <li>
                             <a title="Landing Page" href="events.html" aria-expanded="false"><span class="educate-icon educate-event icon-wrap sub-icon-mg" aria-hidden="true"></span> <span class="mini-click-non">Event</span></a>
                         </li>
+                        <li>
+                            <a class="has-arrow" href="all-courses.html" aria-expanded="false"><span class="educate-icon educate-library icon-wrap"></span> <span class="mini-click-non">Services</span></a>
+                            <ul class="submenu-angle" aria-expanded="false">
+                                <li><a title="All Library" href="risk-profile.php"><span class="mini-sub-pro">Risk Profiling</span></a></li>
+                                <li><a title="Add Library" href="money-launder.html"><span class="mini-sub-pro">Money Laundering</span></a></li>
+                                <li><a title="Edit Library" href="kyc.html"><span class="mini-sub-pro">KYC Due diligence</span></a></li>
+                                <li><a title="Edit Library" href="traffic-analysis.html"><span class="mini-sub-pro">Traffic Analysis</span></a></li>
+                            </ul>
+                        </li>
                         <!-- <li>
+                            <a class="has-arrow" href="all-students.html" aria-expanded="false"><span class="educate-icon educate-student icon-wrap"></span> <span class="mini-click-non">Students</span></a>
+                            <ul class="submenu-angle" aria-expanded="false">
+                                <li><a title="All Students" href="all-students.html"><span class="mini-sub-pro">All Students</span></a></li>
+                                <li><a title="Add Students" href="add-student.html"><span class="mini-sub-pro">Add Student</span></a></li>
+                                <li><a title="Edit Students" href="edit-student.html"><span class="mini-sub-pro">Edit Student</span></a></li>
+                                <li><a title="Students Profile" href="student-profile.html"><span class="mini-sub-pro">Student Profile</span></a></li>
+                            </ul>
+                        </li> -->
+                        <!-- <li>
+                            <a class="has-arrow" href="all-courses.html" aria-expanded="false"><span class="educate-icon educate-course icon-wrap"></span> <span class="mini-click-non">Courses</span></a>
+                            <ul class="submenu-angle" aria-expanded="false">
+                                <li><a title="All Courses" href="all-courses.html"><span class="mini-sub-pro">All Courses</span></a></li>
+                                <li><a title="Add Courses" href="add-course.html"><span class="mini-sub-pro">Add Course</span></a></li>
+                                <li><a title="Edit Courses" href="edit-course.html"><span class="mini-sub-pro">Edit Course</span></a></li>
+                                <li><a title="Courses Profile" href="course-info.html"><span class="mini-sub-pro">Courses Info</span></a></li>
+                                <li><a title="Product Payment" href="course-payment.html"><span class="mini-sub-pro">Courses Payment</span></a></li>
+                            </ul>
+                        </li> -->
+                        <li>
                             <a class="has-arrow" href="all-courses.html" aria-expanded="false"><span class="educate-icon educate-library icon-wrap"></span> <span class="mini-click-non">Library</span></a>
                             <ul class="submenu-angle" aria-expanded="false">
                                 <li><a title="All Library" href="library-assets.html"><span class="mini-sub-pro">Library Assets</span></a></li>
@@ -105,7 +128,22 @@
                             </ul>
                         </li>
 
-
+                        <!-- <li>
+                            <a class="has-arrow" href="all-courses.html" aria-expanded="false"><span class="educate-icon educate-department icon-wrap"></span> <span class="mini-click-non">Departments</span></a>
+                            <ul class="submenu-angle" aria-expanded="false">
+                                <li><a title="Departments List" href="departments.html"><span class="mini-sub-pro">Departments List</span></a></li>
+                                <li><a title="Add Departments" href="add-department.html"><span class="mini-sub-pro">Add Departments</span></a></li>
+                                <li><a title="Edit Departments" href="edit-department.html"><span class="mini-sub-pro">Edit Departments</span></a></li>
+                            </ul>
+                        </li> -->
+                        <!-- <li>
+                            <a class="has-arrow" href="mailbox.html" aria-expanded="false"><span class="educate-icon educate-message icon-wrap"></span> <span class="mini-click-non">Mailbox</span></a>
+                            <ul class="submenu-angle" aria-expanded="false">
+                                <li><a title="Inbox" href="mailbox.html"><span class="mini-sub-pro">Inbox</span></a></li>
+                                <li><a title="View Mail" href="mailbox-view.html"><span class="mini-sub-pro">View Mail</span></a></li>
+                                <li><a title="Compose Mail" href="mailbox-compose.html"><span class="mini-sub-pro">Compose Mail</span></a></li>
+                            </ul>
+                        </li> -->
                         <li>
                             <a class="has-arrow" href="mailbox.html" aria-expanded="false"><span class="educate-icon educate-interface icon-wrap"></span> <span class="mini-click-non">Interface</span></a>
                             <ul class="submenu-angle interface-mini-nb-dp" aria-expanded="false">
@@ -137,16 +175,49 @@
                                 <li><a title="Peity Charts" href="static-table.html"><span class="mini-sub-pro">Static Table</span></a></li>
                                 <li><a title="Data Table" href="data-table.html"><span class="mini-sub-pro">Data Table</span></a></li>
                             </ul>
-                        </li> -->
+                        </li>
                         <li>
                             <a class="has-arrow" href="all-professors.html" aria-expanded="false"><span class="educate-icon educate-professor icon-wrap"></span> <span class="mini-click-non">My Profile</span></a>
                             <ul class="submenu-angle" aria-expanded="false">
-
+                                <!-- <li><a title="All Professors" href="all-professors.html"><span class="mini-sub-pro">All Professors</span></a></li>
+                                <li><a title="Add Professor" href="add-professor.html"><span class="mini-sub-pro">Add Professor</span></a></li> -->
                                 <li><a title="Edit Professor" href="edit-professor.html"><span class="mini-sub-pro">Edit Proile</span></a></li>
-                                <li><a title="Professor Profile" href="professor-profile.html"><span class="mini-sub-pro">My Profile</span></a></li>
+                                <li><a title="Professor Profile" href="professor-profile.php"><span class="mini-sub-pro">My Profile</span></a></li>
                             </ul>
                         </li>
-
+                        <!-- <li>
+                            <a class="has-arrow" href="mailbox.html" aria-expanded="false"><span class="educate-icon educate-form icon-wrap"></span> <span class="mini-click-non">Forms Elements</span></a>
+                            <ul class="submenu-angle form-mini-nb-dp" aria-expanded="false">
+                                <li><a title="Basic Form Elements" href="basic-form-element.html"><span class="mini-sub-pro">Bc Form Elements</span></a></li>
+                                <li><a title="Advance Form Elements" href="advance-form-element.html"><span class="mini-sub-pro">Ad Form Elements</span></a></li>
+                                <li><a title="Password Meter" href="password-meter.html"><span class="mini-sub-pro">Password Meter</span></a></li>
+                                <li><a title="Multi Upload" href="multi-upload.html"><span class="mini-sub-pro">Multi Upload</span></a></li>
+                                <li><a title="Text Editor" href="tinymc.html"><span class="mini-sub-pro">Text Editor</span></a></li>
+                                <li><a title="Dual List Box" href="dual-list-box.html"><span class="mini-sub-pro">Dual List Box</span></a></li>
+                            </ul>
+                        </li> -->
+                        <!-- <li>
+                            <a class="has-arrow" href="mailbox.html" aria-expanded="false"><span class="educate-icon educate-apps icon-wrap"></span> <span class="mini-click-non">App views</span></a>
+                            <ul class="submenu-angle app-mini-nb-dp" aria-expanded="false">
+                                <li><a title="Notifications" href="notifications.html"><span class="mini-sub-pro">Notifications</span></a></li>
+                                <li><a title="Alerts" href="alerts.html"><span class="mini-sub-pro">Alerts</span></a></li>
+                                <li><a title="Modals" href="modals.html"><span class="mini-sub-pro">Modals</span></a></li>
+                                <li><a title="Buttons" href="buttons.html"><span class="mini-sub-pro">Buttons</span></a></li>
+                                <li><a title="Tabs" href="tabs.html"><span class="mini-sub-pro">Tabs</span></a></li>
+                                <li><a title="Accordion" href="accordion.html"><span class="mini-sub-pro">Accordion</span></a></li>
+                            </ul>
+                        </li> -->
+                        <!-- <li id="removable">
+                            <a class="has-arrow" href="#" aria-expanded="false"><span class="educate-icon educate-pages icon-wrap"></span> <span class="mini-click-non">Pages</span></a>
+                            <ul class="submenu-angle page-mini-nb-dp" aria-expanded="false">
+                                <li><a title="Login" href="login.html"><span class="mini-sub-pro">Login</span></a></li>
+                                <li><a title="Register" href="register.html"><span class="mini-sub-pro">Register</span></a></li>
+                                <li><a title="Lock" href="lock.html"><span class="mini-sub-pro">Lock</span></a></li>
+                                <li><a title="Password Recovery" href="password-recovery.html"><span class="mini-sub-pro">Password Recovery</span></a></li>
+                                <li><a title="404 Page" href="404.html"><span class="mini-sub-pro">404 Page</span></a></li>
+                                <li><a title="500 Page" href="500.html"><span class="mini-sub-pro">500 Page</span></a></li>
+                            </ul>
+                        </li> -->
                     </ul>
                 </nav>
             </div>
@@ -207,7 +278,7 @@
                                                         <div class="message-single-top">
                                                             <h1>Message</h1>
                                                         </div>
-                                                        <!-- <ul class="message-menu">
+                                                        <ul class="message-menu">
                                                             <li>
                                                                 <a href="#">
                                                                     <div class="message-img">
@@ -256,7 +327,7 @@
                                                                     </div>
                                                                 </a>
                                                             </li>
-                                                        </ul> -->
+                                                        </ul>
                                                         <div class="message-view">
                                                             <a href="#">View All Messages</a>
                                                         </div>
@@ -267,7 +338,7 @@
                                                         <div class="notification-single-top">
                                                             <h1>Notifications</h1>
                                                         </div>
-                                                        <!-- <ul class="notification-menu">
+                                                        <ul class="notification-menu">
                                                             <li>
                                                                 <a href="#">
                                                                     <div class="notification-icon">
@@ -316,7 +387,7 @@
                                                                     </div>
                                                                 </a>
                                                             </li>
-                                                        </ul> -->
+                                                        </ul>
                                                         <div class="notification-view">
                                                             <a href="#">View All Notification</a>
                                                         </div>
@@ -325,13 +396,17 @@
                                                 <li class="nav-item">
                                                     <a href="#" data-toggle="dropdown" role="button" aria-expanded="false" class="nav-link dropdown-toggle">
 															<img src="img/product/pro4.jpg" alt="" />
-															<span class="admin-name">Mrs Harley Quinn</span>
+															<span class="admin-name">
+                                                                <?php
+                                                                include "../Login/name.php"
+                                                                ?>
+                                                            </span>
 															<i class="fa fa-angle-down edu-icon edu-down-arrow"></i>
 														</a>
                                                     <ul role="menu" class="dropdown-header-top author-log dropdown-menu animated zoomIn">
-                                                        <li><a href="professor-profile.html "><span class="edu-icon edu-home-admin author-log-ic"></span>My Account</a>
+                                                        <li><a href="professor-profile.php "><span class="edu-icon edu-home-admin author-log-ic"></span>My Account</a>
                                                         </li>
-                                                        <li><a href="professor-profile.html"><span class="edu-icon edu-user-rounded author-log-ic"></span>My Profile</a>
+                                                        <li><a href="professor-profile.php"><span class="edu-icon edu-user-rounded author-log-ic"></span>My Profile</a>
                                                         </li>
                                                         <li><a href="#Settings"><span class="edu-icon edu-settings author-log-ic"></span>Settings</a>
                                                         </li>
@@ -358,7 +433,7 @@
                                                                         <h2><i class="fa fa-comments-o"></i> Latest Notes</h2>
                                                                         <p>You have 10 new message.</p>
                                                                     </div>
-                                                                    <!-- <div class="notes-list-area notes-menu-scrollbar">
+                                                                    <div class="notes-list-area notes-menu-scrollbar">
                                                                         <ul class="notes-menu-list">
                                                                             <li>
                                                                                 <a href="#">
@@ -491,16 +566,16 @@
                                                                                 </a>
                                                                             </li>
                                                                         </ul>
-                                                                    </div> -->
+                                                                    </div>
                                                                 </div>
                                                             </div>
                                                             <div id="Projects" class="tab-pane fade">
                                                                 <div class="projects-settings-wrap">
                                                                     <div class="note-heading-indicate">
-                                                                        <h2><i class="fa fa-cube"></i> Latest Data Analysis</h2>
-                                                                        <p> You have new data analysis available.</p>
+                                                                        <h2><i class="fa fa-cube"></i> Latest projects</h2>
+                                                                        <p> You have 20 projects. 5 not completed.</p>
                                                                     </div>
-                                                                    <!-- <div class="project-st-list-area project-st-menu-scrollbar">
+                                                                    <div class="project-st-list-area project-st-menu-scrollbar">
                                                                         <ul class="projects-st-menu-list">
                                                                             <li>
                                                                                 <a href="#">
@@ -648,7 +723,7 @@
                                                                             </li>
                                                                         </ul>
                                                                     </div>
-                                                                </div> -->
+                                                                </div>
                                                             </div>
                                                             <div id="Settings" class="tab-pane fade">
                                                                 <div class="setting-panel-area">
@@ -786,7 +861,190 @@
                 </div>
             </div>
             <!-- Mobile Menu start -->
-
+            <!-- <div class="mobile-menu-area">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                            <div class="mobile-menu">
+                                <nav id="dropdown">
+                                    <ul class="mobile-menu-nav">
+                                        <li><a data-toggle="collapse" data-target="#Charts" href="#">Home <span class="admin-project-icon edu-icon edu-down-arrow"></span></a>
+                                            <ul class="collapse dropdown-header-top">
+                                                <li><a href="index.html">Dashboard v.1</a></li>
+                                                <li><a href="index-1.html">Dashboard v.2</a></li>
+                                                <li><a href="index-3.html">Dashboard v.3</a></li>
+                                                <li><a href="analytics.html">Analytics</a></li>
+                                                <li><a href="widgets.html">Widgets</a></li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="events.html">Event</a></li>
+                                        <li><a data-toggle="collapse" data-target="#demoevent" href="#">Services <span class="admin-project-icon edu-icon edu-down-arrow"></span></a>
+                                            <ul id="demoevent" class="collapse dropdown-header-top">
+                                                <li><a href="all-professors.html">All Professors</a>
+                                                </li>
+                                                <li><a href="add-professor.html">Add Professor</a>
+                                                </li>
+                                                <li><a href="edit-professor.html">Edit Professor</a>
+                                                </li>
+                                                <li><a href="professor-profile.php">Professor Profile</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li><a data-toggle="collapse" data-target="#demopro" href="#">Students <span class="admin-project-icon edu-icon edu-down-arrow"></span></a>
+                                            <ul id="demopro" class="collapse dropdown-header-top">
+                                                <li><a href="all-students.html">All Students</a>
+                                                </li>
+                                                <li><a href="add-student.html">Add Student</a>
+                                                </li>
+                                                <li><a href="edit-student.html">Edit Student</a>
+                                                </li>
+                                                <li><a href="student-profile.html">Student Profile</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li><a data-toggle="collapse" data-target="#democrou" href="#">Courses <span class="admin-project-icon edu-icon edu-down-arrow"></span></a>
+                                            <ul id="democrou" class="collapse dropdown-header-top">
+                                                <li><a href="all-courses.html">All Courses</a>
+                                                </li>
+                                                <li><a href="add-course.html">Add Course</a>
+                                                </li>
+                                                <li><a href="edit-course.html">Edit Course</a>
+                                                </li>
+                                                <li><a href="course-profile.html">Courses Info</a>
+                                                </li>
+                                                <li><a href="course-payment.html">Courses Payment</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li><a data-toggle="collapse" data-target="#demolibra" href="#">Library <span class="admin-project-icon edu-icon edu-down-arrow"></span></a>
+                                            <ul id="demolibra" class="collapse dropdown-header-top">
+                                                <li><a href="library-assets.html">Library Assets</a>
+                                                </li>
+                                                <li><a href="add-library-assets.html">Add Library Asset</a>
+                                                </li>
+                                                <li><a href="edit-library-assets.html">Edit Library Asset</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li><a data-toggle="collapse" data-target="#demodepart" href="#">Departments <span class="admin-project-icon edu-icon edu-down-arrow"></span></a>
+                                            <ul id="demodepart" class="collapse dropdown-header-top">
+                                                <li><a href="departments.html">Departments List</a>
+                                                </li>
+                                                <li><a href="add-department.html">Add Departments</a>
+                                                </li>
+                                                <li><a href="edit-department.html">Edit Departments</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li><a data-toggle="collapse" data-target="#demo" href="#">Mailbox <span class="admin-project-icon edu-icon edu-down-arrow"></span></a>
+                                            <ul id="demo" class="collapse dropdown-header-top">
+                                                <li><a href="mailbox.html">Inbox</a>
+                                                </li>
+                                                <li><a href="mailbox-view.html">View Mail</a>
+                                                </li>
+                                                <li><a href="mailbox-compose.html">Compose Mail</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li><a data-toggle="collapse" data-target="#Miscellaneousmob" href="#">Interface <span class="admin-project-icon edu-icon edu-down-arrow"></span></a>
+                                            <ul id="Miscellaneousmob" class="collapse dropdown-header-top">
+                                                <li><a href="google-map.html">Google Map</a>
+                                                </li>
+                                                <li><a href="data-maps.html">Data Maps</a>
+                                                </li>
+                                                <li><a href="pdf-viewer.html">Pdf Viewer</a>
+                                                </li>
+                                                <li><a href="x-editable.html">X-Editable</a>
+                                                </li>
+                                                <li><a href="code-editor.html">Code Editor</a>
+                                                </li>
+                                                <li><a href="tree-view.html">Tree View</a>
+                                                </li>
+                                                <li><a href="preloader.html">Preloader</a>
+                                                </li>
+                                                <li><a href="images-cropper.html">Images Cropper</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li><a data-toggle="collapse" data-target="#Chartsmob" href="#">Charts <span class="admin-project-icon edu-icon edu-down-arrow"></span></a>
+                                            <ul id="Chartsmob" class="collapse dropdown-header-top">
+                                                <li><a href="bar-charts.html">Bar Charts</a>
+                                                </li>
+                                                <li><a href="line-charts.html">Line Charts</a>
+                                                </li>
+                                                <li><a href="area-charts.html">Area Charts</a>
+                                                </li>
+                                                <li><a href="rounded-chart.html">Rounded Charts</a>
+                                                </li>
+                                                <li><a href="c3.html">C3 Charts</a>
+                                                </li>
+                                                <li><a href="sparkline.html">Sparkline Charts</a>
+                                                </li>
+                                                <li><a href="peity.html">Peity Charts</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li><a data-toggle="collapse" data-target="#Tablesmob" href="#">Tables <span class="admin-project-icon edu-icon edu-down-arrow"></span></a>
+                                            <ul id="Tablesmob" class="collapse dropdown-header-top">
+                                                <li><a href="static-table.html">Static Table</a>
+                                                </li>
+                                                <li><a href="data-table.html">Data Table</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li><a data-toggle="collapse" data-target="#formsmob" href="#">Forms <span class="admin-project-icon edu-icon edu-down-arrow"></span></a>
+                                            <ul id="formsmob" class="collapse dropdown-header-top">
+                                                <li><a href="basic-form-element.html">Basic Form Elements</a>
+                                                </li>
+                                                <li><a href="advance-form-element.html">Advanced Form Elements</a>
+                                                </li>
+                                                <li><a href="password-meter.html">Password Meter</a>
+                                                </li>
+                                                <li><a href="multi-upload.html">Multi Upload</a>
+                                                </li>
+                                                <li><a href="tinymc.html">Text Editor</a>
+                                                </li>
+                                                <li><a href="dual-list-box.html">Dual List Box</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li><a data-toggle="collapse" data-target="#Appviewsmob" href="#">App views <span class="admin-project-icon edu-icon edu-down-arrow"></span></a>
+                                            <ul id="Appviewsmob" class="collapse dropdown-header-top">
+                                                <li><a href="basic-form-element.html">Basic Form Elements</a>
+                                                </li>
+                                                <li><a href="advance-form-element.html">Advanced Form Elements</a>
+                                                </li>
+                                                <li><a href="password-meter.html">Password Meter</a>
+                                                </li>
+                                                <li><a href="multi-upload.html">Multi Upload</a>
+                                                </li>
+                                                <li><a href="tinymc.html">Text Editor</a>
+                                                </li>
+                                                <li><a href="dual-list-box.html">Dual List Box</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li><a data-toggle="collapse" data-target="#Pagemob" href="#">Pages <span class="admin-project-icon edu-icon edu-down-arrow"></span></a>
+                                            <ul id="Pagemob" class="collapse dropdown-header-top">
+                                                <li><a href="login.html">Login</a>
+                                                </li>
+                                                <li><a href="register.html">Register</a>
+                                                </li>
+                                                <li><a href="lock.html">Lock</a>
+                                                </li>
+                                                <li><a href="password-recovery.html">Password Recovery</a>
+                                                </li>
+                                                <li><a href="404.html">404 Page</a></li>
+                                                <li><a href="500.html">500 Page</a></li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </nav>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div> -->
             <!-- Mobile Menu end -->
             <div class="breadcome-area">
                 <div class="container-fluid">
@@ -804,9 +1062,9 @@
                                     </div>
                                     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                                         <ul class="breadcome-menu">
-                                            <li><a href="#">KYC & Due Diligence Analysis </a> <span class="bread-slash">/</span>
+                                            <li><a href="#">Home</a> <span class="bread-slash">/</span>
                                             </li>
-                                            <li><span class="bread-blod"><a href="index.html">Dashboard </a></span>
+                                            <li><span class="bread-blod">Dashboard </span>
                                             </li>
                                         </ul>
                                     </div>
@@ -823,16 +1081,10 @@
                     <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                         <div class="analytics-sparkle-line reso-mg-b-30">
                             <div class="analytics-content">
-                                <h5>KYC and Due Diligence Identifier</h5>
+                                <h5>Risk Profile Identifier</h5>
                                 <div class="button-style-two btn-mg-b-10">
-                                    <button type="button" class="btn btn-custon-rounded-two btn-primary" onclick="window.location.href='kyc.html'">You are here!</button>
+                                    <button type="button" class="btn btn-custon-rounded-two btn-success" onclick="window.location.href='risk-profile.php'">Check Now</button>
                                 </div>
-                                <!-- <h5>Computer Technologies</h5>
-                                <h2>$<span class="counter">5000</span> <span class="tuition-fees">Tuition Fees</span></h2>
-                                <span class="text-success">20%</span>
-                                <div class="progress m-b-0">
-                                    <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width:20%;"> <span class="sr-only">20% Complete</span> </div>
-                                </div> -->
                             </div>
                         </div>
                     </div>
@@ -841,10 +1093,9 @@
                             <div class="analytics-content">
                                 <h5>Money Laundering Identifier</h5>
                                 <div class="button-style-two btn-mg-b-10">
-                                    <button type="button" class="btn btn-custon-rounded-two btn-success" onclick="window.location.href='money-launder.html'">You are here!</button>
+                                    <button type="button" class="btn btn-custon-rounded-two btn-success" onclick="window.location.href='money-launder.html'">Check Now</button>
                                 </div>
-                                <!-- <h5>Accounting Technologies</h5>
-                                <h2>$<span class="counter">3000</span> <span class="tuition-fees">Tuition Fees</span></h2>
+                                <!-- <h2>$<span class="counter">3000</span> <span class="tuition-fees">Tuition Fees</span></h2>
                                 <span class="text-danger">30%</span>
                                 <div class="progress m-b-0">
                                     <div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width:30%;"> <span class="sr-only">230% Complete</span> </div>
@@ -855,12 +1106,11 @@
                     <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                         <div class="analytics-sparkle-line reso-mg-b-30 table-mg-t-pro dk-res-t-pro-30">
                             <div class="analytics-content">
-                                <h5>Risk Profile Identifier</h5>
+                                <h5>KYC and Due Diligence Identifier</h5>
                                 <div class="button-style-two btn-mg-b-10">
-                                    <button type="button" class="btn btn-custon-rounded-two btn-success" onclick="window.location.href='risk-profile.html'">Check Now</button>
+                                    <button type="button" class="btn btn-custon-rounded-two btn-success" onclick="window.location.href='kyc.html'">Check Now</button>
                                 </div>
-                                <!-- <h5>Electrical Engineering</h5>
-                                <h2>$<span class="counter">2000</span> <span class="tuition-fees">Tuition Fees</span></h2>
+                                <!-- <h2>$<span class="counter">2000</span> <span class="tuition-fees">Tuition Fees</span></h2>
                                 <span class="text-info">60%</span>
                                 <div class="progress m-b-0">
                                     <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width:60%;"> <span class="sr-only">20% Complete</span> </div>
@@ -892,77 +1142,78 @@
                     <div class="col-lg-9 col-md-12 col-sm-12 col-xs-12">
                         <div class="product-sales-chart">
                             <div class="portlet-title">
-                                <div class="row">                                 
+                                <div class="row">
                                     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                                        <h5>Gender to Location Diagram : Location : Malaysia </h5>
-                                    <iframe src="https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/app/dashboards#/view/411b5060-bbd5-11ec-9f2b-fb35fdd02b7b?embed=true&_g=(filters%3A!())&show-top-menu=true&show-query-input=true&show-time-filter=true" height="600" width="850"></iframe>
-                                     </div>
+                                        <div class="caption pro-sl-hd">
+                                            <span class="caption-subject"><b>University Earnings</b></span>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                                        <div class="actions graph-rp graph-rp-dl">
+                                            <p>All Earnings are in million $</p>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
+                            <ul class="list-inline cus-product-sl-rp">
+                                <li>
+                                    <h5><i class="fa fa-circle" style="color: #006DF0;"></i>CSE</h5>
+                                </li>
+                                <li>
+                                    <h5><i class="fa fa-circle" style="color: #933EC5;"></i>Accounting</h5>
+                                </li>
+                                <li>
+                                    <h5><i class="fa fa-circle" style="color: #65b12d;"></i>Electrical</h5>
+                                </li>
+                            </ul>
+                            <div id="extra-area-chart" style="height: 356px;"></div>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
-                        <div class="white-box analytics-info-cs mg-b-10 res-mg-b-30 res-mg-t-30 table-mg-t-pro-n tb-sm-res-d-n dk-res-t-d-n">
-                            <h3 class="box-title">Quick Report Generator</h3>
-                            <div class="button-style-two btn-mg-b-10">
-                                <button type="button" class="btn btn-custon-rounded-two btn-danger" onclick="window.open('https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/api/reporting/jobs/download/l1z2fw31000h9e8fa1bn5ohb')">Generate PDF</button>
-                            </div>
-                            <!-- <ul class="list-inline two-part-sp">
+                        <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Asia%2FKolkata&src=YXJqdW5yYWoubmV0QGdtYWlsLmNvbQ&src=YWRkcmVzc2Jvb2sjY29udGFjdHNAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&src=ZW4uaW5kaWFuI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%23039BE5&color=%2333B679&color=%230B8043" style="border:solid 1px #777" width="400" height="460" frameborder="0" scrolling="no">
+                        </iframe>
+                        <!-- <div class="white-box analytics-info-cs mg-b-10 res-mg-b-30 res-mg-t-30 table-mg-t-pro-n tb-sm-res-d-n dk-res-t-d-n">
+                            <h3 class="box-title">Total Visit</h3>
+                            <ul class="list-inline two-part-sp">
                                 <li>
                                     <div id="sparklinedash"></div>
                                 </li>
                                 <li class="text-right sp-cn-r"><i class="fa fa-level-up" aria-hidden="true"></i> <span class="counter text-success">1500</span></li>
-                            </ul> -->
+                            </ul>
                         </div>
                         <div class="white-box analytics-info-cs mg-b-10 res-mg-b-30 tb-sm-res-d-n dk-res-t-d-n">
-                            <h3 class="box-title">Quick Report Generator</h3>
-                            <div class="button-style-two btn-mg-b-10">
-                                <button type="button" class="btn btn-custon-rounded-two btn-danger" onclick="window.open('https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/api/reporting/jobs/download/l1z2nhyn000h9e8fa1aqlbq7')">Generate PNG</button>
-                            </div>
-                            <!-- <ul class="list-inline two-part-sp">
+                            <h3 class="box-title">Page Views</h3>
+                            <ul class="list-inline two-part-sp">
                                 <li>
                                     <div id="sparklinedash2"></div>
                                 </li>
                                 <li class="text-right graph-two-ctn"><i class="fa fa-level-up" aria-hidden="true"></i> <span class="counter text-purple">3000</span></li>
-                            </ul> -->
+                            </ul>
                         </div>
                         <div class="white-box analytics-info-cs mg-b-10 res-mg-b-30 tb-sm-res-d-n dk-res-t-d-n">
-                            <h3 class="box-title">Go to Kibana Dashboard</h3>
-                            <div class="button-style-two btn-mg-b-10">
-                                <button type="button" class="btn btn-custon-rounded-two btn-primary" onclick="window.open('https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/app/r/s/red-rancid-midnight')">Kibana Dashboard</button>
-                            </div>
-                            <!-- <ul class="list-inline two-part-sp">
+                            <h3 class="box-title">Unique Visitor</h3>
+                            <ul class="list-inline two-part-sp">
                                 <li>
                                     <div id="sparklinedash3"></div>
                                 </li>
                                 <li class="text-right graph-three-ctn"><i class="fa fa-level-up" aria-hidden="true"></i> <span class="counter text-info">5000</span></li>
-                            </ul> -->
+                            </ul>
                         </div>
-                        
                         <div class="white-box analytics-info-cs table-dis-n-pro tb-sm-res-d-n dk-res-t-d-n">
-                            <h3 class="box-title">Read related articles</h3>
-                            <div class="button-style-two btn-mg-b-10">
-                                <button type="button" class="btn btn-custon-rounded-two btn-primary" onclick="window.open('https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=human+trafficking+malaysia&btnG=&oq=human+trafficking+mala')">Read articles</button>
-                            </div>
-                            <!-- <ul class="list-inline two-part-sp">
+                            <h3 class="box-title">Bounce Rate</h3>
+                            <ul class="list-inline two-part-sp">
                                 <li>
                                     <div id="sparklinedash4"></div>
                                 </li>
                                 <li class="text-right graph-four-ctn"><i class="fa fa-level-down" aria-hidden="true"></i> <span class="text-danger"><span class="counter">18</span>%</span>
                                 </li>
-                            </ul> -->
-                        </div>
-                        <div class="white-box analytics-info-cs mg-b-10 res-mg-b-30 tb-sm-res-d-n dk-res-t-d-n">
-                            <h3 class="box-title">View Original Data</h3>
-                            <div class="button-style-two btn-mg-b-10">
-                                <button type="button" class="btn btn-custon-rounded-two btn-primary" onclick="window.open('https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/api/reporting/jobs/download/l1z4ny6p000h9e8fa1f0qup3')">View Dataview</button>
-                            </div>
-                        </div>
+                            </ul>
+                        </div> -->
                     </div>
                 </div>
             </div>
         </div>
-        <!-- <div class="traffic-analysis-area">
+        <div class="traffic-analysis-area">
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
@@ -1003,415 +1254,13 @@
                     </div>
                 </div>
             </div>
-        </div> -->
-    <!-- kibana iframes  start section-->
-    <div class="product-sales-area mg-tb-30">
-        <div class="container-fluid">
-            <div class="row">
-                <div class="col-lg-9 col-md-12 col-sm-12 col-xs-12">
-                    <div class="product-sales-chart">
-                        <div class="portlet-title">
-                            <div class="row">                                 
-                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                                    <h5>Location type:</h5>
-                                    <iframe src="https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/app/dashboards#/view/816571a0-bbd5-11ec-9f2b-fb35fdd02b7b?embed=true&_g=(filters%3A!())&show-top-menu=true&show-query-input=true&show-time-filter=true" height="600" width="850"></iframe>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
-                    <div class="white-box analytics-info-cs mg-b-10 res-mg-b-30 res-mg-t-30 table-mg-t-pro-n tb-sm-res-d-n dk-res-t-d-n">
-                        <h3 class="box-title">Quick Report Generator</h3>
-                        <div class="button-style-two btn-mg-b-10">
-                            <button type="button" class="btn btn-custon-rounded-two btn-danger" onclick="window.open('https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/api/reporting/jobs/download/l1z2fw31000h9e8fa1bn5ohb')">Generate PDF</button>
-                        </div>
-                        <!-- <ul class="list-inline two-part-sp">
-                            <li>
-                                <div id="sparklinedash"></div>
-                            </li>
-                            <li class="text-right sp-cn-r"><i class="fa fa-level-up" aria-hidden="true"></i> <span class="counter text-success">1500</span></li>
-                        </ul> -->
-                    </div>
-                    <div class="white-box analytics-info-cs mg-b-10 res-mg-b-30 tb-sm-res-d-n dk-res-t-d-n">
-                        <h3 class="box-title">Quick Report Generator</h3>
-                        <div class="button-style-two btn-mg-b-10">
-                            <button type="button" class="btn btn-custon-rounded-two btn-danger" onclick="window.open('https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/api/reporting/jobs/download/l1z2nhyn000h9e8fa1aqlbq7')">Generate PNG</button>
-                        </div>
-                        <!-- <ul class="list-inline two-part-sp">
-                            <li>
-                                <div id="sparklinedash2"></div>
-                            </li>
-                            <li class="text-right graph-two-ctn"><i class="fa fa-level-up" aria-hidden="true"></i> <span class="counter text-purple">3000</span></li>
-                        </ul> -->
-                    </div>
-                    <div class="white-box analytics-info-cs mg-b-10 res-mg-b-30 tb-sm-res-d-n dk-res-t-d-n">
-                        <h3 class="box-title">Go to Kibana Dashboard</h3>
-                        <div class="button-style-two btn-mg-b-10">
-                            <button type="button" class="btn btn-custon-rounded-two btn-primary" onclick="window.open('https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/app/r/s/short-plain-child')">Kibana Dashboard</button>
-                        </div>
-                        <!-- <ul class="list-inline two-part-sp">
-                            <li>
-                                <div id="sparklinedash3"></div>
-                            </li>
-                            <li class="text-right graph-three-ctn"><i class="fa fa-level-up" aria-hidden="true"></i> <span class="counter text-info">5000</span></li>
-                        </ul> -->
-                    </div>
-                    
-                    <div class="white-box analytics-info-cs table-dis-n-pro tb-sm-res-d-n dk-res-t-d-n">
-                        <h3 class="box-title">Read related articles</h3>
-                        <div class="button-style-two btn-mg-b-10">
-                            <button type="button" class="btn btn-custon-rounded-two btn-primary" onclick="window.open('https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=human+trafficking+malaysia&btnG=&oq=human+trafficking+mala')">Read articles</button>
-                        </div>
-                        <!-- <ul class="list-inline two-part-sp">
-                            <li>
-                                <div id="sparklinedash4"></div>
-                            </li>
-                            <li class="text-right graph-four-ctn"><i class="fa fa-level-down" aria-hidden="true"></i> <span class="text-danger"><span class="counter">18</span>%</span>
-                            </li>
-                        </ul> -->
-                    </div>
-                    <div class="white-box analytics-info-cs mg-b-10 res-mg-b-30 tb-sm-res-d-n dk-res-t-d-n">
-                        <h3 class="box-title">View Original Data</h3>
-                        <div class="button-style-two btn-mg-b-10">
-                            <button type="button" class="btn btn-custon-rounded-two btn-primary" onclick="window.open('https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/api/reporting/jobs/download/l1z4ny6p000h9e8fa1f0qup3')">View Dataview</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            </div>
         </div>
-        <div class="product-sales-area mg-tb-30">
-            <div class="container-fluid">
-                <div class="row">
-                    <div class="col-lg-9 col-md-12 col-sm-12 col-xs-12">
-                        <div class="product-sales-chart">
-                            <div class="portlet-title">
-                                <div class="row">                                 
-                                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                                        <h5>Mode of trafficking:</h5>
-                                        <iframe src="https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/app/dashboards#/view/ee97cf30-bbd4-11ec-9f2b-fb35fdd02b7b?embed=true&_g=(filters%3A!())&show-top-menu=true&show-query-input=true&show-time-filter=true" height="600" width="850"></iframe>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
-                        <div class="white-box analytics-info-cs mg-b-10 res-mg-b-30 res-mg-t-30 table-mg-t-pro-n tb-sm-res-d-n dk-res-t-d-n">
-                            <h3 class="box-title">Quick Report Generator</h3>
-                            <div class="button-style-two btn-mg-b-10">
-                                <button type="button" class="btn btn-custon-rounded-two btn-danger" onclick="window.open('https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/api/reporting/jobs/download/l1z2fw31000h9e8fa1bn5ohb')">Generate PDF</button>
-                            </div>
-                            <!-- <ul class="list-inline two-part-sp">
-                                <li>
-                                    <div id="sparklinedash"></div>
-                                </li>
-                                <li class="text-right sp-cn-r"><i class="fa fa-level-up" aria-hidden="true"></i> <span class="counter text-success">1500</span></li>
-                            </ul> -->
-                        </div>
-                        <div class="white-box analytics-info-cs mg-b-10 res-mg-b-30 tb-sm-res-d-n dk-res-t-d-n">
-                            <h3 class="box-title">Quick Report Generator</h3>
-                            <div class="button-style-two btn-mg-b-10">
-                                <button type="button" class="btn btn-custon-rounded-two btn-danger" onclick="window.open('https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/api/reporting/jobs/download/l1z2nhyn000h9e8fa1aqlbq7')">Generate PNG</button>
-                            </div>
-                            <!-- <ul class="list-inline two-part-sp">
-                                <li>
-                                    <div id="sparklinedash2"></div>
-                                </li>
-                                <li class="text-right graph-two-ctn"><i class="fa fa-level-up" aria-hidden="true"></i> <span class="counter text-purple">3000</span></li>
-                            </ul> -->
-                        </div>
-                        <div class="white-box analytics-info-cs mg-b-10 res-mg-b-30 tb-sm-res-d-n dk-res-t-d-n">
-                            <h3 class="box-title">Go to Kibana Dashboard</h3>
-                            <div class="button-style-two btn-mg-b-10">
-                                <button type="button" class="btn btn-custon-rounded-two btn-primary" onclick="window.open('https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/app/r/s/ambitious-rapping-tomato')">Kibana Dashboard</button>
-                            </div>
-                            <!-- <ul class="list-inline two-part-sp">
-                                <li>
-                                    <div id="sparklinedash3"></div>
-                                </li>
-                                <li class="text-right graph-three-ctn"><i class="fa fa-level-up" aria-hidden="true"></i> <span class="counter text-info">5000</span></li>
-                            </ul> -->
-                        </div>
-                        
-                        <div class="white-box analytics-info-cs table-dis-n-pro tb-sm-res-d-n dk-res-t-d-n">
-                            <h3 class="box-title">Read related articles</h3>
-                            <div class="button-style-two btn-mg-b-10">
-                                <button type="button" class="btn btn-custon-rounded-two btn-primary" onclick="window.open('https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=human+trafficking+malaysia&btnG=&oq=human+trafficking+mala')">Read articles</button>
-                            </div>
-                            <!-- <ul class="list-inline two-part-sp">
-                                <li>
-                                    <div id="sparklinedash4"></div>
-                                </li>
-                                <li class="text-right graph-four-ctn"><i class="fa fa-level-down" aria-hidden="true"></i> <span class="text-danger"><span class="counter">18</span>%</span>
-                                </li>
-                            </ul> -->
-                        </div>
-                        <div class="white-box analytics-info-cs mg-b-10 res-mg-b-30 tb-sm-res-d-n dk-res-t-d-n">
-                            <h3 class="box-title">View Original Data</h3>
-                            <div class="button-style-two btn-mg-b-10">
-                                <button type="button" class="btn btn-custon-rounded-two btn-primary" onclick="window.open('https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/api/reporting/jobs/download/l1z4ny6p000h9e8fa1f0qup3')">View Dataview</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                </div>
-            </div>
-        <!-- </div> -->
-        <div class="product-sales-area mg-tb-30">
-            <div class="container-fluid">
-                <div class="row">
-                    <div class="col-lg-9 col-md-12 col-sm-12 col-xs-12">
-                        <div class="product-sales-chart">
-                            <div class="portlet-title">
-                                <div class="row">                                 
-                                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                                        <h5>Source details:</h5>
-                                        <iframe src="https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/app/dashboards#/view/1ab2db00-bbd5-11ec-9f2b-fb35fdd02b7b?embed=true&_g=(filters%3A!())&show-top-menu=true&show-query-input=true&show-time-filter=true" height="600" width="850"></iframe>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
-                        <div class="white-box analytics-info-cs mg-b-10 res-mg-b-30 res-mg-t-30 table-mg-t-pro-n tb-sm-res-d-n dk-res-t-d-n">
-                            <h3 class="box-title">Quick Report Generator</h3>
-                            <div class="button-style-two btn-mg-b-10">
-                                <button type="button" class="btn btn-custon-rounded-two btn-danger" onclick="window.open('https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/api/reporting/jobs/download/l1z2fw31000h9e8fa1bn5ohb')">Generate PDF</button>
-                            </div>
-                            <!-- <ul class="list-inline two-part-sp">
-                                <li>
-                                    <div id="sparklinedash"></div>
-                                </li>
-                                <li class="text-right sp-cn-r"><i class="fa fa-level-up" aria-hidden="true"></i> <span class="counter text-success">1500</span></li>
-                            </ul> -->
-                        </div>
-                        <div class="white-box analytics-info-cs mg-b-10 res-mg-b-30 tb-sm-res-d-n dk-res-t-d-n">
-                            <h3 class="box-title">Quick Report Generator</h3>
-                            <div class="button-style-two btn-mg-b-10">
-                                <button type="button" class="btn btn-custon-rounded-two btn-danger" onclick="window.open('https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/api/reporting/jobs/download/l1z2nhyn000h9e8fa1aqlbq7')">Generate PNG</button>
-                            </div>
-                            <!-- <ul class="list-inline two-part-sp">
-                                <li>
-                                    <div id="sparklinedash2"></div>
-                                </li>
-                                <li class="text-right graph-two-ctn"><i class="fa fa-level-up" aria-hidden="true"></i> <span class="counter text-purple">3000</span></li>
-                            </ul> -->
-                        </div>
-                        <div class="white-box analytics-info-cs mg-b-10 res-mg-b-30 tb-sm-res-d-n dk-res-t-d-n">
-                            <h3 class="box-title">Go to Kibana Dashboard</h3>
-                            <div class="button-style-two btn-mg-b-10">
-                                <button type="button" class="btn btn-custon-rounded-two btn-primary" onclick="window.open('https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/app/r/s/faint-tart-lunch')">Kibana Dashboard</button>
-                            </div>
-                            <!-- <ul class="list-inline two-part-sp">
-                                <li>
-                                    <div id="sparklinedash3"></div>
-                                </li>
-                                <li class="text-right graph-three-ctn"><i class="fa fa-level-up" aria-hidden="true"></i> <span class="counter text-info">5000</span></li>
-                            </ul> -->
-                        </div>
-                        
-                        <div class="white-box analytics-info-cs table-dis-n-pro tb-sm-res-d-n dk-res-t-d-n">
-                            <h3 class="box-title">Read related articles</h3>
-                            <div class="button-style-two btn-mg-b-10">
-                                <button type="button" class="btn btn-custon-rounded-two btn-primary" onclick="window.open('https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=human+trafficking+malaysia&btnG=&oq=human+trafficking+mala')">Read articles</button>
-                            </div>
-                            <!-- <ul class="list-inline two-part-sp">
-                                <li>
-                                    <div id="sparklinedash4"></div>
-                                </li>
-                                <li class="text-right graph-four-ctn"><i class="fa fa-level-down" aria-hidden="true"></i> <span class="text-danger"><span class="counter">18</span>%</span>
-                                </li>
-                            </ul> -->
-                        </div>
-                        <div class="white-box analytics-info-cs mg-b-10 res-mg-b-30 tb-sm-res-d-n dk-res-t-d-n">
-                            <h3 class="box-title">View Original Data</h3>
-                            <div class="button-style-two btn-mg-b-10">
-                                <button type="button" class="btn btn-custon-rounded-two btn-primary" onclick="window.open('https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/api/reporting/jobs/download/l1z4ny6p000h9e8fa1f0qup3')">View Dataview</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                </div>
-            </div>
-        <!-- </div> -->
-        <div class="product-sales-area mg-tb-30">
-            <div class="container-fluid">
-                <div class="row">
-                    <div class="col-lg-9 col-md-12 col-sm-12 col-xs-12">
-                        <div class="product-sales-chart">
-                            <div class="portlet-title">
-                                <div class="row">                                 
-                                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                                        <h5>Trafficker Gender:</h5>
-                                        <iframe src="https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/app/dashboards#/view/8fdd7940-bbd4-11ec-9f2b-fb35fdd02b7b?embed=true&_g=()&show-top-menu=true&show-query-input=true&show-time-filter=true" height="600" width="850"></iframe>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
-                        <div class="white-box analytics-info-cs mg-b-10 res-mg-b-30 res-mg-t-30 table-mg-t-pro-n tb-sm-res-d-n dk-res-t-d-n">
-                            <h3 class="box-title">Quick Report Generator</h3>
-                            <div class="button-style-two btn-mg-b-10">
-                                <button type="button" class="btn btn-custon-rounded-two btn-danger" onclick="window.open('https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/api/reporting/jobs/download/l1z2fw31000h9e8fa1bn5ohb')">Generate PDF</button>
-                            </div>
-                            <!-- <ul class="list-inline two-part-sp">
-                                <li>
-                                    <div id="sparklinedash"></div>
-                                </li>
-                                <li class="text-right sp-cn-r"><i class="fa fa-level-up" aria-hidden="true"></i> <span class="counter text-success">1500</span></li>
-                            </ul> -->
-                        </div>
-                        <div class="white-box analytics-info-cs mg-b-10 res-mg-b-30 tb-sm-res-d-n dk-res-t-d-n">
-                            <h3 class="box-title">Quick Report Generator</h3>
-                            <div class="button-style-two btn-mg-b-10">
-                                <button type="button" class="btn btn-custon-rounded-two btn-danger" onclick="window.open('https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/api/reporting/jobs/download/l1z2nhyn000h9e8fa1aqlbq7')">Generate PNG</button>
-                            </div>
-                            <!-- <ul class="list-inline two-part-sp">
-                                <li>
-                                    <div id="sparklinedash2"></div>
-                                </li>
-                                <li class="text-right graph-two-ctn"><i class="fa fa-level-up" aria-hidden="true"></i> <span class="counter text-purple">3000</span></li>
-                            </ul> -->
-                        </div>
-                        <div class="white-box analytics-info-cs mg-b-10 res-mg-b-30 tb-sm-res-d-n dk-res-t-d-n">
-                            <h3 class="box-title">Go to Kibana Dashboard</h3>
-                            <div class="button-style-two btn-mg-b-10">
-                                <button type="button" class="btn btn-custon-rounded-two btn-primary" onclick="window.open('https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/app/r/s/refined-repulsive-xylophone')">Kibana Dashboard</button>
-                            </div>
-                            <!-- <ul class="list-inline two-part-sp">
-                                <li>
-                                    <div id="sparklinedash3"></div>
-                                </li>
-                                <li class="text-right graph-three-ctn"><i class="fa fa-level-up" aria-hidden="true"></i> <span class="counter text-info">5000</span></li>
-                            </ul> -->
-                        </div>
-                        
-                        <div class="white-box analytics-info-cs table-dis-n-pro tb-sm-res-d-n dk-res-t-d-n">
-                            <h3 class="box-title">Read related articles</h3>
-                            <div class="button-style-two btn-mg-b-10">
-                                <button type="button" class="btn btn-custon-rounded-two btn-primary" onclick="window.open('https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=human+trafficking+malaysia&btnG=&oq=human+trafficking+mala')">Read articles</button>
-                            </div>
-                            <!-- <ul class="list-inline two-part-sp">
-                                <li>
-                                    <div id="sparklinedash4"></div>
-                                </li>
-                                <li class="text-right graph-four-ctn"><i class="fa fa-level-down" aria-hidden="true"></i> <span class="text-danger"><span class="counter">18</span>%</span>
-                                </li>
-                            </ul> -->
-                        </div>
-                        <div class="white-box analytics-info-cs mg-b-10 res-mg-b-30 tb-sm-res-d-n dk-res-t-d-n">
-                            <h3 class="box-title">View Original Data</h3>
-                            <div class="button-style-two btn-mg-b-10">
-                                <button type="button" class="btn btn-custon-rounded-two btn-primary" onclick="window.open('https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/api/reporting/jobs/download/l1z4ny6p000h9e8fa1f0qup3')">View Dataview</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                </div>
-            </div>
-        <!-- </div> -->
-        <div class="product-sales-area mg-tb-30">
-            <div class="container-fluid">
-                <div class="row">
-                    <div class="col-lg-9 col-md-12 col-sm-12 col-xs-12">
-                        <div class="product-sales-chart">
-                            <div class="portlet-title">
-                                <div class="row">                                 
-                                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                                        <h5>Ratio of victim to trafficker:</h5>
-                                        <iframe src="https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/app/dashboards#/view/63c6e4d0-bbd5-11ec-9f2b-fb35fdd02b7b?embed=true&_g=()&show-top-menu=true&show-query-input=true&show-time-filter=true" height="600" width="850"></iframe>     
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
-                        <div class="white-box analytics-info-cs mg-b-10 res-mg-b-30 res-mg-t-30 table-mg-t-pro-n tb-sm-res-d-n dk-res-t-d-n">
-                            <h3 class="box-title">Quick Report Generator</h3>
-                            <div class="button-style-two btn-mg-b-10">
-                                <button type="button" class="btn btn-custon-rounded-two btn-danger" onclick="window.open('https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/api/reporting/jobs/download/l1z2fw31000h9e8fa1bn5ohb')">Generate PDF</button>
-                            </div>
-                            <!-- <ul class="list-inline two-part-sp">
-                                <li>
-                                    <div id="sparklinedash"></div>
-                                </li>
-                                <li class="text-right sp-cn-r"><i class="fa fa-level-up" aria-hidden="true"></i> <span class="counter text-success">1500</span></li>
-                            </ul> -->
-                        </div>
-                        <div class="white-box analytics-info-cs mg-b-10 res-mg-b-30 tb-sm-res-d-n dk-res-t-d-n">
-                            <h3 class="box-title">Quick Report Generator</h3>
-                            <div class="button-style-two btn-mg-b-10">
-                                <button type="button" class="btn btn-custon-rounded-two btn-danger" onclick="window.open('https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/api/reporting/jobs/download/l1z2nhyn000h9e8fa1aqlbq7')">Generate PNG</button>
-                            </div>
-                            <!-- <ul class="list-inline two-part-sp">
-                                <li>
-                                    <div id="sparklinedash2"></div>
-                                </li>
-                                <li class="text-right graph-two-ctn"><i class="fa fa-level-up" aria-hidden="true"></i> <span class="counter text-purple">3000</span></li>
-                            </ul> -->
-                        </div>
-                        <div class="white-box analytics-info-cs mg-b-10 res-mg-b-30 tb-sm-res-d-n dk-res-t-d-n">
-                            <h3 class="box-title">Go to Kibana Dashboard</h3>
-                            <div class="button-style-two btn-mg-b-10">
-                                <button type="button" class="btn btn-custon-rounded-two btn-primary" onclick="window.open('https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/app/r/s/thoughtless-unkempt-alligator')">Kibana Dashboard</button>
-                            </div>
-                            <!-- <ul class="list-inline two-part-sp">
-                                <li>
-                                    <div id="sparklinedash3"></div>
-                                </li>
-                                <li class="text-right graph-three-ctn"><i class="fa fa-level-up" aria-hidden="true"></i> <span class="counter text-info">5000</span></li>
-                            </ul> -->
-                        </div>
-                        
-                        <div class="white-box analytics-info-cs table-dis-n-pro tb-sm-res-d-n dk-res-t-d-n">
-                            <h3 class="box-title">Read related articles</h3>
-                            <div class="button-style-two btn-mg-b-10">
-                                <button type="button" class="btn btn-custon-rounded-two btn-primary" onclick="window.open('https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=human+trafficking+malaysia&btnG=&oq=human+trafficking+mala')">Read articles</button>
-                            </div>
-                            <!-- <ul class="list-inline two-part-sp">
-                                <li>
-                                    <div id="sparklinedash4"></div>
-                                </li>
-                                <li class="text-right graph-four-ctn"><i class="fa fa-level-down" aria-hidden="true"></i> <span class="text-danger"><span class="counter">18</span>%</span>
-                                </li>
-                            </ul> -->
-                        </div>
-                        <div class="white-box analytics-info-cs mg-b-10 res-mg-b-30 tb-sm-res-d-n dk-res-t-d-n">
-                            <h3 class="box-title">View Original Data</h3>
-                            <div class="button-style-two btn-mg-b-10">
-                                <button type="button" class="btn btn-custon-rounded-two btn-primary" onclick="window.open('https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/api/reporting/jobs/download/l1z4ny6p000h9e8fa1f0qup3')">View Dataview</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                </div>
-            </div>
-        <!-- </div> -->
-        <div class="product-sales-area mg-tb-30">
-            <div class="container-fluid">
-                <div class="row">
-                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                        <div class="product-sales-chart">
-                            <div class="portlet-title">
-                                <div class="row">                                 
-                                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                                        <h5>Map</h5>
-                                    </div>
-                                    <iframe src="https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/app/r/s/cool-loose-hairdresser" height="600" width="1200"></iframe>
-                                   </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    </div>
-         <div class="library-book-area mg-t-30">
+        <!-- <div class="library-book-area mg-t-30">
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
-                        <!-- <div class="single-cards-item"> -->
-                            <!-- <div class="single-product-image">
+                        <div class="single-cards-item">
+                            <div class="single-product-image">
                                 <a href="#"><img src="img/product/profile-bg.jpg" alt=""></a>
                             </div>
                             <div class="single-product-text">
@@ -1440,11 +1289,10 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div> -->
-                        <!-- </div> -->
-                        
-
-                    <!-- <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
                         <div class="single-review-st-item res-mg-t-30 table-mg-t-pro-n">
                             <div class="single-review-st-hd">
                                 <h2>Reviews</h2>
@@ -1534,8 +1382,8 @@
                                 </div>
                             </div>
                         </div>
-                    </div> -->
-                    <!-- <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
                         <div class="single-product-item res-mg-t-30 table-mg-t-pro-n tb-sm-res-d-n dk-res-t-d-n">
                             <div class="single-product-image">
                                 <a href="#"><img src="img/product/book-4.jpg" alt=""></a>
@@ -1560,11 +1408,11 @@
                                 </div>
                             </div>
                         </div>
-                    </div> -->
+                    </div>
                 </div>
             </div>
-        </div>
-<!-- <div class="product-sales-area mg-tb-30">
+        </div> -->
+        <div class="product-sales-area mg-tb-30">
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-lg-9 col-md-12 col-sm-12 col-xs-12">
@@ -1602,8 +1450,27 @@
                             <div id="morris-area-chart"></div>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
-                        <div class="analysis-progrebar res-mg-t-30 mg-ub-10 res-mg-b-30 table-mg-t-pro-n tb-sm-res-d-n dk-res-t-d-n">
+                    <div class="col-lg-3 col-md-3 col-sm-2 col-xs-10">
+                        <div class="data-map-area mg-b-15">
+                            <div class="container-fluid">
+                            <!-- <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"> -->
+                                <div class="sparkline11-list res-mg-b-30">
+                                    <div class="sparkline11-hd">
+                                        <div class="main-spark7-hd">
+                                            <h1>World Data Map</h1>
+                                        </div>
+                                    </div>
+                                    <div class="sparkline11-graph">
+                                        <div class="data-map-single basic-choropleth">
+                                            <div id="basic_choropleth" style="position: relative; width: 100%; height: 100%;"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            <!-- </div> -->
+                            </div>
+
+                         </div>
+                        <!-- <div class="analysis-progrebar res-mg-t-30 mg-ub-10 res-mg-b-30 table-mg-t-pro-n tb-sm-res-d-n dk-res-t-d-n">
                             <div class="analysis-progrebar-content">
                                 <h5>Usage</h5>
                                 <h2 class="storage-right"><span class="counter">90</span>%</h2>
@@ -1650,11 +1517,11 @@
                                     <p>Server down since 5:32 pm.</p>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>
-        </div> -->
+        </div>
         <!-- <div class="courses-area mg-b-15">
             <div class="container-fluid">
                 <div class="row">
@@ -1798,11 +1665,19 @@
     <script src="js/sparkline/jquery.sparkline.min.js"></script>
     <script src="js/sparkline/jquery.charts-sparkline.js"></script>
     <script src="js/sparkline/sparkline-active.js"></script>
+
     <!-- calendar JS
 		============================================ -->
+        
     <script src="js/calendar/moment.min.js"></script>
     <script src="js/calendar/fullcalendar.min.js"></script>
     <script src="js/calendar/fullcalendar-active.js"></script>
+    <!-- Data Maps JS
+		============================================ -->
+        <script src="js/data-map/d3.min.js"></script>
+        <script src="js/data-map/topojson.js"></script>
+        <script src="js/data-map/datamaps.all.min.js"></script>
+        <script src="js/data-map/data-maps-active.js"></script>    
     <!-- plugins JS
 		============================================ -->
     <script src="js/plugins.js"></script>

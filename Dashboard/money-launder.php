@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Traffic Analysis | Analysis Hub</title>
+    <title>Money Laundering Analysis | Analysis Hub</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- favicon
@@ -72,14 +72,14 @@
     <div class="left-sidebar-pro">
         <nav id="sidebar" class="">
             <div class="sidebar-header">
-                <a href="index.html"><img class="main-logo" src="img/logo/logo.png" alt="" /></a>
-                <strong><a href="index.html"><img src="img/logo/logosn.png" alt="" /></a></strong>
+                <a href="index.php"><img class="main-logo" src="img/logo/logo.png" alt="" /></a>
+                <strong><a href="index.php"><img src="img/logo/logosn.png" alt="" /></a></strong>
             </div>
             <div class="left-custom-menu-adp-wrap comment-scrollbar">
                 <nav class="sidebar-nav left-sidebar-menu-pro">
                     <ul class="metismenu" id="menu1">
                         <li class="active">
-                            <a class="has-arrow" href="index.html">
+                            <a class="has-arrow" href="index.php">
 								   <span class="educate-icon educate-home icon-wrap"></span>
 								   <span class="mini-click-non">Home</span>
 								</a>
@@ -87,8 +87,8 @@
                         <li>
                             <a class="has-arrow" href="all-courses.html" aria-expanded="false"><span class="educate-icon educate-library icon-wrap"></span> <span class="mini-click-non">Services</span></a>
                             <ul class="submenu-angle" aria-expanded="false">
-                                <li><a title="All Library" href="risk-profile.html"><span class="mini-sub-pro">Risk Profiling</span></a></li>
-                                <li><a title="Add Library" href="money-launder.html"><span class="mini-sub-pro">Money Laundering</span></a></li>
+                                <li><a title="All Library" href="risk-profile.php"><span class="mini-sub-pro">Risk Profiling</span></a></li>
+                                <li><a title="Add Library" href="money-launder.php"><span class="mini-sub-pro">Money Laundering</span></a></li>
                                 <li><a title="Edit Library" href="kyc.html"><span class="mini-sub-pro">KYC Due diligence</span></a></li>
                                 <li><a title="Edit Library" href="traffic-analysis.html"><span class="mini-sub-pro">Traffic Analysis</span></a></li>
                             </ul>
@@ -143,7 +143,7 @@
                             <ul class="submenu-angle" aria-expanded="false">
 
                                 <li><a title="Edit Professor" href="edit-professor.html"><span class="mini-sub-pro">Edit Proile</span></a></li>
-                                <li><a title="Professor Profile" href="professor-profile.html"><span class="mini-sub-pro">My Profile</span></a></li>
+                                <li><a title="Professor Profile" href="professor-profile.php"><span class="mini-sub-pro">My Profile</span></a></li>
                             </ul>
                         </li>
 
@@ -159,7 +159,7 @@
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                     <div class="logo-pro">
-                        <a href="index.html"><img class="main-logo" src="img/logo/logo.png" alt="" /></a>
+                        <a href="index.php"><img class="main-logo" src="img/logo/logo.png" alt="" /></a>
                     </div>
                 </div>
             </div>
@@ -325,13 +325,17 @@
                                                 <li class="nav-item">
                                                     <a href="#" data-toggle="dropdown" role="button" aria-expanded="false" class="nav-link dropdown-toggle">
 															<img src="img/product/pro4.jpg" alt="" />
-															<span class="admin-name">Mrs Harley Quinn</span>
+															<span class="admin-name">
+                                                                <?php
+                                                                    include "../Login/name.php"
+                                                                ?>
+                                                            </span>
 															<i class="fa fa-angle-down edu-icon edu-down-arrow"></i>
 														</a>
                                                     <ul role="menu" class="dropdown-header-top author-log dropdown-menu animated zoomIn">
-                                                        <li><a href="professor-profile.html "><span class="edu-icon edu-home-admin author-log-ic"></span>My Account</a>
+                                                        <li><a href="professor-profile.php "><span class="edu-icon edu-home-admin author-log-ic"></span>My Account</a>
                                                         </li>
-                                                        <li><a href="professor-profile.html"><span class="edu-icon edu-user-rounded author-log-ic"></span>My Profile</a>
+                                                        <li><a href="professor-profile.php"><span class="edu-icon edu-user-rounded author-log-ic"></span>My Profile</a>
                                                         </li>
                                                         <li><a href="#Settings"><span class="edu-icon edu-settings author-log-ic"></span>Settings</a>
                                                         </li>
@@ -804,9 +808,9 @@
                                     </div>
                                     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                                         <ul class="breadcome-menu">
-                                            <li><a href="#">Traffic Analysis Hub</a> <span class="bread-slash">/</span>
+                                            <li><a href="#">Money Laundering Analysis </a> <span class="bread-slash">/</span>
                                             </li>
-                                            <li><span class="bread-blod"><a href="index.html">Dashboard </a></span>
+                                            <li><span class="bread-blod"><a href="index.php">Dashboard </a></span>
                                             </li>
                                         </ul>
                                     </div>
@@ -841,7 +845,7 @@
                             <div class="analytics-content">
                                 <h5>Money Laundering Identifier</h5>
                                 <div class="button-style-two btn-mg-b-10">
-                                    <button type="button" class="btn btn-custon-rounded-two btn-success" onclick="window.location.href='money-launder.html'">Check Now</button>
+                                    <button type="button" class="btn btn-custon-rounded-two btn-primary" onclick="window.location.href='money-launder.php'">You are here!</button>
                                 </div>
                                 <!-- <h5>Accounting Technologies</h5>
                                 <h2>$<span class="counter">3000</span> <span class="tuition-fees">Tuition Fees</span></h2>
@@ -857,7 +861,7 @@
                             <div class="analytics-content">
                                 <h5>Risk Profile Identifier</h5>
                                 <div class="button-style-two btn-mg-b-10">
-                                    <button type="button" class="btn btn-custon-rounded-two btn-success" onclick="window.location.href='risk-profile.html'">Check Now</button>
+                                    <button type="button" class="btn btn-custon-rounded-two btn-success" onclick="window.location.href='risk-profile.php'">Check Now</button>
                                 </div>
                                 <!-- <h5>Electrical Engineering</h5>
                                 <h2>$<span class="counter">2000</span> <span class="tuition-fees">Tuition Fees</span></h2>
@@ -873,7 +877,7 @@
                             <div class="analytics-content">
                                 <h5>Traffic Analysis</h5>
                                 <div class="button-style-two btn-mg-b-10">
-                                    <button type="button" class="btn btn-custon-rounded-two btn-primary" onclick="window.location.href='traffic-analysis.html'">You are here!</button>
+                                    <button type="button" class="btn btn-custon-rounded-two btn-success" onclick="window.location.href='traffic-analysis.html'">Check Now</button>
                                 </div>
                                 <!-- <h2>$<span class="counter">3500</span> <span class="tuition-fees">Tuition Fees</span></h2>
                                 <span class="text-inverse">80%</span>
