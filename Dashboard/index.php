@@ -81,12 +81,12 @@
                         <li class="active">
                             <a class="has-arrow" href="index.html">
 								   <span class="educate-icon educate-home icon-wrap"></span>
-								   <span class="mini-click-non">Data</span>
+								   <span class="mini-click-non">Home</span>
 								</a>
-                            <ul class="submenu-angle" aria-expanded="true">
+                            <!-- <ul class="submenu-angle" aria-expanded="true">
                                 <li><a title="Analytics" href="analytics.html"><span class="mini-sub-pro">Analytics</span></a></li>
                                 <li><a title="Widgets" href="widgets.html"><span class="mini-sub-pro">Widgets</span></a></li>
-                            </ul>
+                            </ul> -->
                         </li>
                         <li>
                             <a class="has-arrow" href="all-courses.html" aria-expanded="false"><span class="educate-icon educate-library icon-wrap"></span> <span class="mini-click-non">Services</span></a>
