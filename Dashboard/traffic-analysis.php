@@ -1396,6 +1396,157 @@
         <div class="product-sales-area mg-tb-30">
             <div class="container-fluid">
                 <div class="row">
+                    <div class="col-lg-9 col-md-12 col-sm-12 col-xs-12">
+                        <div class="product-sales-chart">
+                            <div class="portlet-title">
+                                <div class="row">                                 
+                                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                                        <h5>Trafficking involving minors:</h5>
+                                        <iframe src="https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/app/r/s/most-dirty-kilobyte" height="600" width="850"></iframe></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+                        <div class="white-box analytics-info-cs mg-b-10 res-mg-b-30 res-mg-t-30 table-mg-t-pro-n tb-sm-res-d-n dk-res-t-d-n">
+                            <h3 class="box-title">Quick Report Generator</h3>
+                            <div class="button-style-two btn-mg-b-10">
+                                <button type="button" class="btn btn-custon-rounded-two btn-danger" onclick="window.open('https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/api/reporting/jobs/download/l1z2fw31000h9e8fa1bn5ohb')">Generate PDF</button>
+                            </div>
+                            <!-- <ul class="list-inline two-part-sp">
+                                <li>
+                                    <div id="sparklinedash"></div>
+                                </li>
+                                <li class="text-right sp-cn-r"><i class="fa fa-level-up" aria-hidden="true"></i> <span class="counter text-success">1500</span></li>
+                            </ul> -->
+                        </div>
+                        <div class="white-box analytics-info-cs mg-b-10 res-mg-b-30 tb-sm-res-d-n dk-res-t-d-n">
+                            <h3 class="box-title">Quick Report Generator</h3>
+                            <div class="button-style-two btn-mg-b-10">
+                                <button type="button" class="btn btn-custon-rounded-two btn-danger" onclick="window.open('https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/api/reporting/jobs/download/l1z2nhyn000h9e8fa1aqlbq7')">Generate PNG</button>
+                            </div>
+                            <!-- <ul class="list-inline two-part-sp">
+                                <li>
+                                    <div id="sparklinedash2"></div>
+                                </li>
+                                <li class="text-right graph-two-ctn"><i class="fa fa-level-up" aria-hidden="true"></i> <span class="counter text-purple">3000</span></li>
+                            </ul> -->
+                        </div>
+                        <div class="white-box analytics-info-cs mg-b-10 res-mg-b-30 tb-sm-res-d-n dk-res-t-d-n">
+                            <h3 class="box-title">Go to Kibana Dashboard</h3>
+                            <div class="button-style-two btn-mg-b-10">
+                                <button type="button" class="btn btn-custon-rounded-two btn-primary" onclick="window.open('https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/app/r/s/thoughtless-unkempt-alligator')">Kibana Dashboard</button>
+                            </div>
+                            <!-- <ul class="list-inline two-part-sp">
+                                <li>
+                                    <div id="sparklinedash3"></div>
+                                </li>
+                                <li class="text-right graph-three-ctn"><i class="fa fa-level-up" aria-hidden="true"></i> <span class="counter text-info">5000</span></li>
+                            </ul> -->
+                        </div>
+                        
+                        <div class="white-box analytics-info-cs table-dis-n-pro tb-sm-res-d-n dk-res-t-d-n">
+                            <h3 class="box-title">Read related articles</h3>
+                            <div class="button-style-two btn-mg-b-10">
+                                <button type="button" class="btn btn-custon-rounded-two btn-primary" onclick="window.open('https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=human+trafficking+malaysia&btnG=&oq=human+trafficking+mala')">Read articles</button>
+                            </div>
+                            <!-- <ul class="list-inline two-part-sp">
+                                <li>
+                                    <div id="sparklinedash4"></div>
+                                </li>
+                                <li class="text-right graph-four-ctn"><i class="fa fa-level-down" aria-hidden="true"></i> <span class="text-danger"><span class="counter">18</span>%</span>
+                                </li>
+                            </ul> -->
+                        </div>
+                        <div class="white-box analytics-info-cs mg-b-10 res-mg-b-30 tb-sm-res-d-n dk-res-t-d-n">
+                            <h3 class="box-title">View Original Data</h3>
+                            <div class="button-style-two btn-mg-b-10">
+                                <button type="button" class="btn btn-custon-rounded-two btn-primary" onclick="window.open('https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/api/reporting/jobs/download/l1z4ny6p000h9e8fa1f0qup3')">View Dataview</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </div>
+            </div>
+        <!-- </div> -->
+                <!-- </div> -->
+                <div class="product-sales-area mg-tb-30">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-lg-9 col-md-12 col-sm-12 col-xs-12">
+                        <div class="product-sales-chart">
+                            <div class="portlet-title">
+                                <div class="row">                                 
+                                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                                        <h5> Victim gender to coercion method:</h5>
+                                        <iframe src="https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/app/r/s/massive-dirty-shoe" height="600" width="850"></iframe></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+                        <div class="white-box analytics-info-cs mg-b-10 res-mg-b-30 res-mg-t-30 table-mg-t-pro-n tb-sm-res-d-n dk-res-t-d-n">
+                            <h3 class="box-title">Quick Report Generator</h3>
+                            <div class="button-style-two btn-mg-b-10">
+                                <button type="button" class="btn btn-custon-rounded-two btn-danger" onclick="window.open('https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/api/reporting/jobs/download/l1z2fw31000h9e8fa1bn5ohb')">Generate PDF</button>
+                            </div>
+                            <!-- <ul class="list-inline two-part-sp">
+                                <li>
+                                    <div id="sparklinedash"></div>
+                                </li>
+                                <li class="text-right sp-cn-r"><i class="fa fa-level-up" aria-hidden="true"></i> <span class="counter text-success">1500</span></li>
+                            </ul> -->
+                        </div>
+                        <div class="white-box analytics-info-cs mg-b-10 res-mg-b-30 tb-sm-res-d-n dk-res-t-d-n">
+                            <h3 class="box-title">Quick Report Generator</h3>
+                            <div class="button-style-two btn-mg-b-10">
+                                <button type="button" class="btn btn-custon-rounded-two btn-danger" onclick="window.open('https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/api/reporting/jobs/download/l1z2nhyn000h9e8fa1aqlbq7')">Generate PNG</button>
+                            </div>
+                            <!-- <ul class="list-inline two-part-sp">
+                                <li>
+                                    <div id="sparklinedash2"></div>
+                                </li>
+                                <li class="text-right graph-two-ctn"><i class="fa fa-level-up" aria-hidden="true"></i> <span class="counter text-purple">3000</span></li>
+                            </ul> -->
+                        </div>
+                        <div class="white-box analytics-info-cs mg-b-10 res-mg-b-30 tb-sm-res-d-n dk-res-t-d-n">
+                            <h3 class="box-title">Go to Kibana Dashboard</h3>
+                            <div class="button-style-two btn-mg-b-10">
+                                <button type="button" class="btn btn-custon-rounded-two btn-primary" onclick="window.open('https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/app/r/s/thoughtless-unkempt-alligator')">Kibana Dashboard</button>
+                            </div>
+                            <!-- <ul class="list-inline two-part-sp">
+                                <li>
+                                    <div id="sparklinedash3"></div>
+                                </li>
+                                <li class="text-right graph-three-ctn"><i class="fa fa-level-up" aria-hidden="true"></i> <span class="counter text-info">5000</span></li>
+                            </ul> -->
+                        </div>
+                        
+                        <div class="white-box analytics-info-cs table-dis-n-pro tb-sm-res-d-n dk-res-t-d-n">
+                            <h3 class="box-title">Read related articles</h3>
+                            <div class="button-style-two btn-mg-b-10">
+                                <button type="button" class="btn btn-custon-rounded-two btn-primary" onclick="window.open('https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=human+trafficking+malaysia&btnG=&oq=human+trafficking+mala')">Read articles</button>
+                            </div>
+                            <!-- <ul class="list-inline two-part-sp">
+                                <li>
+                                    <div id="sparklinedash4"></div>
+                                </li>
+                                <li class="text-right graph-four-ctn"><i class="fa fa-level-down" aria-hidden="true"></i> <span class="text-danger"><span class="counter">18</span>%</span>
+                                </li>
+                            </ul> -->
+                        </div>
+                        <div class="white-box analytics-info-cs mg-b-10 res-mg-b-30 tb-sm-res-d-n dk-res-t-d-n">
+                            <h3 class="box-title">View Original Data</h3>
+                            <div class="button-style-two btn-mg-b-10">
+                                <button type="button" class="btn btn-custon-rounded-two btn-primary" onclick="window.open('https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/api/reporting/jobs/download/l1z4ny6p000h9e8fa1f0qup3')">View Dataview</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </div>
+            </div>
+        <div class="product-sales-area mg-tb-30">
+            <div class="container-fluid">
+                <div class="row">
                     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                         <div class="product-sales-chart">
                             <div class="portlet-title">
@@ -1747,7 +1898,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="footer-copy-right">
-                            <p>Copyright © 2020. All rights reserved. Team Inevitables</p>
+                            <p>Copyright © 2022. All rights reserved. Team Inevitables</p>
                         </div>
                     </div>
                 </div>
