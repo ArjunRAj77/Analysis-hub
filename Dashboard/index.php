@@ -1093,7 +1093,7 @@
                             <div class="analytics-content">
                                 <h5>Money Laundering Identifier</h5>
                                 <div class="button-style-two btn-mg-b-10">
-                                    <button type="button" class="btn btn-custon-rounded-two btn-success" onclick="window.location.href='money-launder.html'">Check Now</button>
+                                    <button type="button" class="btn btn-custon-rounded-two btn-success" onclick="window.location.href='money-launder.php'">Check Now</button>
                                 </div>
                                 <!-- <h2>$<span class="counter">3000</span> <span class="tuition-fees">Tuition Fees</span></h2>
                                 <span class="text-danger">30%</span>
@@ -1108,7 +1108,7 @@
                             <div class="analytics-content">
                                 <h5>KYC and Due Diligence Identifier</h5>
                                 <div class="button-style-two btn-mg-b-10">
-                                    <button type="button" class="btn btn-custon-rounded-two btn-success" onclick="window.location.href='kyc.html'">Check Now</button>
+                                    <button type="button" class="btn btn-custon-rounded-two btn-success" onclick="window.location.href='kyc.php'">Check Now</button>
                                 </div>
                                 <!-- <h2>$<span class="counter">2000</span> <span class="tuition-fees">Tuition Fees</span></h2>
                                 <span class="text-info">60%</span>
@@ -1123,7 +1123,7 @@
                             <div class="analytics-content">
                                 <h5>Traffic Analysis</h5>
                                 <div class="button-style-two btn-mg-b-10">
-                                    <button type="button" class="btn btn-custon-rounded-two btn-success" onclick="window.location.href='traffic-analysis.html'">Check Now</button>
+                                    <button type="button" class="btn btn-custon-rounded-two btn-success" onclick="window.location.href='traffic-analysis.php'">Check Now</button>
                                 </div>
                                 <!-- <h2>$<span class="counter">3500</span> <span class="tuition-fees">Tuition Fees</span></h2>
                                 <span class="text-inverse">80%</span>
