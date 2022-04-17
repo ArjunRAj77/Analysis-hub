@@ -181,7 +181,6 @@
                             <ul class="submenu-angle" aria-expanded="false">
                                 <!-- <li><a title="All Professors" href="all-professors.html"><span class="mini-sub-pro">All Professors</span></a></li>
                                 <li><a title="Add Professor" href="add-professor.html"><span class="mini-sub-pro">Add Professor</span></a></li> -->
-                                <li><a title="Edit Professor" href="edit-professor.html"><span class="mini-sub-pro">Edit Proile</span></a></li>
                                 <li><a title="Professor Profile" href="professor-profile.php"><span class="mini-sub-pro">My Profile</span></a></li>
                             </ul>
                         </li>
@@ -278,7 +277,7 @@
                                                         <div class="message-single-top">
                                                             <h1>Message</h1>
                                                         </div>
-                                                        <ul class="message-menu">
+                                                        <!-- <ul class="message-menu">
                                                             <li>
                                                                 <a href="#">
                                                                     <div class="message-img">
@@ -327,7 +326,7 @@
                                                                     </div>
                                                                 </a>
                                                             </li>
-                                                        </ul>
+                                                        </ul> -->
                                                         <div class="message-view">
                                                             <a href="#">View All Messages</a>
                                                         </div>
@@ -338,7 +337,7 @@
                                                         <div class="notification-single-top">
                                                             <h1>Notifications</h1>
                                                         </div>
-                                                        <ul class="notification-menu">
+                                                        <!-- <ul class="notification-menu">
                                                             <li>
                                                                 <a href="#">
                                                                     <div class="notification-icon">
@@ -387,7 +386,7 @@
                                                                     </div>
                                                                 </a>
                                                             </li>
-                                                        </ul>
+                                                        </ul> -->
                                                         <div class="notification-view">
                                                             <a href="#">View All Notification</a>
                                                         </div>
@@ -731,7 +730,7 @@
                                                                         <h2><i class="fa fa-gears"></i> Settings Panel</h2>
                                                                         <p> You have 20 Settings. 5 not completed.</p>
                                                                     </div>
-                                                                    <!-- <ul class="setting-panel-list">
+                                                                    <ul class="setting-panel-list">
                                                                         <li>
                                                                             <div class="checkbox-setting-pro">
                                                                                 <div class="checkbox-title-pro">
@@ -844,7 +843,7 @@
                                                                                 </div>
                                                                             </div>
                                                                         </li>
-                                                                    </ul> -->
+                                                                    </ul>
 
                                                                 </div>
                                                             </div>
@@ -1415,8 +1414,21 @@
         <div class="product-sales-area mg-tb-30">
             <div class="container-fluid">
                 <div class="row">
-                    <div class="col-lg-9 col-md-12 col-sm-12 col-xs-12">
-                        <div class="product-sales-chart">
+                    <div class="col-lg-9 col-md-12 col-sm-12 col-xs-14">
+                        <div class="sparkline11-list res-mg-b-45">
+                                        <div class="sparkline11-hd">
+                                            <div class="main-spark7-hd">
+                                                <h1>World Data Map</h1>
+                                            </div>
+                                        </div>
+                                        <div class="sparkline11-graph">
+                                            <div class="data-map-single basic-choropleth">
+                                                <div id="basic_choropleth" style="position: relative; width: 100%; height: 100%;">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                        <!-- <div class="product-sales-chart">
                             <div class="portlet-title">
                                 <div class="row">
                                     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
@@ -1448,10 +1460,10 @@
                                 </li>
                             </ul>
                             <div id="morris-area-chart"></div>
-                        </div>
+                        </div> -->
                     </div>
                     <div class="col-lg-3 col-md-3 col-sm-2 col-xs-10">
-                        <div class="data-map-area mg-b-15">
+                        <div class="data-map-area mg-b-16">
                             <div class="container-fluid">
                             <!-- <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"> -->
                                 <div class="sparkline11-list res-mg-b-30">
@@ -1461,7 +1473,7 @@
                                         </div>
                                     </div>
                                     <div class="sparkline11-graph">
-                                        <div class="data-map-single basic-choropleth">
+                                        <div class="data-map basic-choropleth">
                                             <div id="basic_choropleth" style="position: relative; width: 100%; height: 100%;"></div>
                                         </div>
                                     </div>
@@ -1610,7 +1622,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="footer-copy-right">
-                            <p>Copyright © 2020. All rights reserved. Team Inevitables</p>
+                            <p>Copyright © 2022. All rights reserved. Team Inevitables</p>
                         </div>
                     </div>
                 </div>
