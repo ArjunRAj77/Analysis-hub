@@ -946,7 +946,7 @@
                         <div class="white-box analytics-info-cs table-dis-n-pro tb-sm-res-d-n dk-res-t-d-n">
                             <h3 class="box-title">Read related articles</h3>
                             <div class="button-style-two btn-mg-b-10">
-                                <button type="button" class="btn btn-custon-rounded-two btn-primary" onclick="window.open('https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=human+trafficking+malaysia&btnG=&oq=human+trafficking+mala')">Read articles</button>
+                                <button type="button" class="btn btn-custon-rounded-two btn-primary" onclick="window.open('https://visual-insights.bluemix.net/?query=Human%20Trafficking%2B%20Malaysia')">Read articles</button>
                             </div>
                             <!-- <ul class="list-inline two-part-sp">
                                 <li>
