@@ -898,9 +898,8 @@
                             <div class="portlet-title">
                                 <div class="row">                                 
                                     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                                        <h5>Gender to Location Diagram : Location : Malaysia </h5>
-                                    <iframe src="https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/app/dashboards#/view/411b5060-bbd5-11ec-9f2b-fb35fdd02b7b?embed=true&_g=(filters%3A!())&show-top-menu=true&show-query-input=true&show-time-filter=true" height="600" width="850"></iframe>
-                                     </div>
+                                        <h5>Identified fraud groups: </h5>
+                                        <iframe src="https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/app/r/s/flabby-jolly-plastic" height="600" width="850"></iframe></div>
                                 </div>
                             </div>
                         </div>
