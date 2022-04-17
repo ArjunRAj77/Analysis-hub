@@ -89,16 +89,16 @@
                             </ul>
                         </li>
                         <li>
-                            <a title="Landing Page" href="events.html" aria-expanded="false"><span class="educate-icon educate-event icon-wrap sub-icon-mg" aria-hidden="true"></span> <span class="mini-click-non">Event</span></a>
-                        </li>
-                        <li>
                             <a class="has-arrow" href="all-courses.html" aria-expanded="false"><span class="educate-icon educate-library icon-wrap"></span> <span class="mini-click-non">Services</span></a>
                             <ul class="submenu-angle" aria-expanded="false">
                                 <li><a title="All Library" href="risk-profile.php"><span class="mini-sub-pro">Risk Profiling</span></a></li>
-                                <li><a title="Add Library" href="money-launder.html"><span class="mini-sub-pro">Money Laundering</span></a></li>
-                                <li><a title="Edit Library" href="kyc.html"><span class="mini-sub-pro">KYC Due diligence</span></a></li>
-                                <li><a title="Edit Library" href="traffic-analysis.html"><span class="mini-sub-pro">Traffic Analysis</span></a></li>
+                                <li><a title="Add Library" href="money-launder.php"><span class="mini-sub-pro">Money Laundering</span></a></li>
+                                <li><a title="Edit Library" href="kyc.php"><span class="mini-sub-pro">KYC Due diligence</span></a></li>
+                                <li><a title="Edit Library" href="traffic-analysis.php"><span class="mini-sub-pro">Traffic Analysis</span></a></li>
                             </ul>
+                        </li>
+                        <li>
+                            <a title="Landing Page" href="events.html" aria-expanded="false"><span class="educate-icon educate-event icon-wrap sub-icon-mg" aria-hidden="true"></span> <span class="mini-click-non">Event</span></a>
                         </li>
                         <!-- <li>
                             <a class="has-arrow" href="all-students.html" aria-expanded="false"><span class="educate-icon educate-student icon-wrap"></span> <span class="mini-click-non">Students</span></a>
@@ -119,14 +119,14 @@
                                 <li><a title="Product Payment" href="course-payment.html"><span class="mini-sub-pro">Courses Payment</span></a></li>
                             </ul>
                         </li> -->
-                        <li>
+                        <!-- <li>
                             <a class="has-arrow" href="all-courses.html" aria-expanded="false"><span class="educate-icon educate-library icon-wrap"></span> <span class="mini-click-non">Library</span></a>
                             <ul class="submenu-angle" aria-expanded="false">
                                 <li><a title="All Library" href="library-assets.html"><span class="mini-sub-pro">Library Assets</span></a></li>
                                 <li><a title="Add Library" href="add-library-assets.html"><span class="mini-sub-pro">Add Library Asset</span></a></li>
                                 <li><a title="Edit Library" href="edit-library-assets.html"><span class="mini-sub-pro">Edit Library Asset</span></a></li>
                             </ul>
-                        </li>
+                        </li> -->
 
                         <!-- <li>
                             <a class="has-arrow" href="all-courses.html" aria-expanded="false"><span class="educate-icon educate-department icon-wrap"></span> <span class="mini-click-non">Departments</span></a>
@@ -144,7 +144,7 @@
                                 <li><a title="Compose Mail" href="mailbox-compose.html"><span class="mini-sub-pro">Compose Mail</span></a></li>
                             </ul>
                         </li> -->
-                        <li>
+                        <!-- <li>
                             <a class="has-arrow" href="mailbox.html" aria-expanded="false"><span class="educate-icon educate-interface icon-wrap"></span> <span class="mini-click-non">Interface</span></a>
                             <ul class="submenu-angle interface-mini-nb-dp" aria-expanded="false">
                                 <li><a title="Google Map" href="google-map.html"><span class="mini-sub-pro">Google Map</span></a></li>
@@ -175,7 +175,7 @@
                                 <li><a title="Peity Charts" href="static-table.html"><span class="mini-sub-pro">Static Table</span></a></li>
                                 <li><a title="Data Table" href="data-table.html"><span class="mini-sub-pro">Data Table</span></a></li>
                             </ul>
-                        </li>
+                        </li> -->
                         <li>
                             <a class="has-arrow" href="all-professors.html" aria-expanded="false"><span class="educate-icon educate-professor icon-wrap"></span> <span class="mini-click-non">My Profile</span></a>
                             <ul class="submenu-angle" aria-expanded="false">
@@ -433,7 +433,7 @@
                                                                         <h2><i class="fa fa-comments-o"></i> Latest Notes</h2>
                                                                         <p>You have 10 new message.</p>
                                                                     </div>
-                                                                    <div class="notes-list-area notes-menu-scrollbar">
+                                                                    <!-- <div class="notes-list-area notes-menu-scrollbar">
                                                                         <ul class="notes-menu-list">
                                                                             <li>
                                                                                 <a href="#">
@@ -566,7 +566,7 @@
                                                                                 </a>
                                                                             </li>
                                                                         </ul>
-                                                                    </div>
+                                                                    </div> -->
                                                                 </div>
                                                             </div>
                                                             <div id="Projects" class="tab-pane fade">
@@ -575,7 +575,7 @@
                                                                         <h2><i class="fa fa-cube"></i> Latest projects</h2>
                                                                         <p> You have 20 projects. 5 not completed.</p>
                                                                     </div>
-                                                                    <div class="project-st-list-area project-st-menu-scrollbar">
+                                                                    <!-- <div class="project-st-list-area project-st-menu-scrollbar">
                                                                         <ul class="projects-st-menu-list">
                                                                             <li>
                                                                                 <a href="#">
@@ -722,7 +722,7 @@
                                                                                 </a>
                                                                             </li>
                                                                         </ul>
-                                                                    </div>
+                                                                    </div> -->
                                                                 </div>
                                                             </div>
                                                             <div id="Settings" class="tab-pane fade">
@@ -731,7 +731,7 @@
                                                                         <h2><i class="fa fa-gears"></i> Settings Panel</h2>
                                                                         <p> You have 20 Settings. 5 not completed.</p>
                                                                     </div>
-                                                                    <ul class="setting-panel-list">
+                                                                    <!-- <ul class="setting-panel-list">
                                                                         <li>
                                                                             <div class="checkbox-setting-pro">
                                                                                 <div class="checkbox-title-pro">
@@ -844,7 +844,7 @@
                                                                                 </div>
                                                                             </div>
                                                                         </li>
-                                                                    </ul>
+                                                                    </ul> -->
 
                                                                 </div>
                                                             </div>
@@ -1062,7 +1062,7 @@
                                     </div>
                                     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                                         <ul class="breadcome-menu">
-                                            <li><a href="#">Home</a> <span class="bread-slash">/</span>
+                                            <li><a href="index.php">Home</a> <span class="bread-slash">/</span>
                                             </li>
                                             <li><span class="bread-blod">Dashboard </span>
                                             </li>
@@ -1213,7 +1213,7 @@
                 </div>
             </div>
         </div>
-        <div class="traffic-analysis-area">
+        <!-- <div class="traffic-analysis-area">
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
@@ -1254,7 +1254,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
         <!-- <div class="library-book-area mg-t-30">
             <div class="container-fluid">
                 <div class="row">
