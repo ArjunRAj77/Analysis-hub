@@ -860,9 +860,9 @@
                     <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                         <div class="analytics-sparkle-line reso-mg-b-30 table-mg-t-pro dk-res-t-pro-30">
                             <div class="analytics-content">
-                                <h5>Risk Profile Identifier</h5>
+                                <h5>Palm Oil Analysis</h5>
                                 <div class="button-style-two btn-mg-b-10">
-                                    <button type="button" class="btn btn-custon-rounded-two btn-primary" onclick="window.location.href='risk-profile.php'">You are here!</button>
+                                    <button type="button" class="btn btn-custon-rounded-two btn-success" onclick="window.location.href='palm-oil.php'">Check Now</button>
                                 </div>
                                 <!-- <h5>Electrical Engineering</h5>
                                 <h2>$<span class="counter">2000</span> <span class="tuition-fees">Tuition Fees</span></h2>
