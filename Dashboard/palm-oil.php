@@ -140,10 +140,8 @@
                             </ul>
                         </li> -->
                         <li>
-                            <a class="has-arrow" href="all-professors.html" aria-expanded="false"><span class="educate-icon educate-professor icon-wrap"></span> <span class="mini-click-non">My Profile</span></a>
+                            <a class="has-arrow" href="all-professors.html" aria-expanded="false"><span class="educate-icon educate-professor icon-wrap"></span> <span class="mini-click-non"> Profile</span></a>
                             <ul class="submenu-angle" aria-expanded="false">
-
-                                <li><a title="Edit Professor" href="edit-professor.html"><span class="mini-sub-pro">Edit Proile</span></a></li>
                                 <li><a title="Professor Profile" href="professor-profile.php"><span class="mini-sub-pro">My Profile</span></a></li>
                             </ul>
                         </li>
@@ -830,7 +828,7 @@
                             <div class="analytics-content">
                                 <h5>KYC and Due Diligence Identifier</h5>
                                 <div class="button-style-two btn-mg-b-10">
-                                    <button type="button" class="btn btn-custon-rounded-two btn-primary" onclick="window.location.href='kyc.php'">You are here!</button>
+                                    <button type="button" class="btn btn-custon-rounded-two btn-success" onclick="window.location.href='kyc.php'">Check Now</button>
                                 </div>
                                 <!-- <h5>Computer Technologies</h5>
                                 <h2>$<span class="counter">5000</span> <span class="tuition-fees">Tuition Fees</span></h2>
@@ -846,7 +844,7 @@
                             <div class="analytics-content">
                                 <h5>Money Laundering Identifier</h5>
                                 <div class="button-style-two btn-mg-b-10">
-                                    <button type="button" class="btn btn-custon-rounded-two btn-success" onclick="window.location.href='money-launder.php'">You are here!</button>
+                                    <button type="button" class="btn btn-custon-rounded-two btn-success" onclick="window.location.href='money-launder.php'">Check Now</button>
                                 </div>
                                 <!-- <h5>Accounting Technologies</h5>
                                 <h2>$<span class="counter">3000</span> <span class="tuition-fees">Tuition Fees</span></h2>
@@ -900,7 +898,7 @@
                                 <div class="row">                                 
                                     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                                         <h5>Palm oil sector factories:</h5>
-                                        <iframe src="https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/app/r/s/hissing-plump-author" height="600" width="850"></iframe> 
+                                        <iframe src="https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/app/r/s/hissing-plump-author" height="600" width="1200"></iframe> 
                                         </div>
                                 </div>
                             </div>
@@ -910,7 +908,7 @@
                         <div class="white-box analytics-info-cs mg-b-10 res-mg-b-30 res-mg-t-30 table-mg-t-pro-n tb-sm-res-d-n dk-res-t-d-n">
                             <h3 class="box-title">Quick Report Generator</h3>
                             <div class="button-style-two btn-mg-b-10">
-                                <button type="button" class="btn btn-custon-rounded-two btn-danger" onclick="window.open('https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/api/reporting/jobs/download/l1z2fw31000h9e8fa1bn5ohb')">Generate PDF</button>
+                                <button type="button" class="btn btn-custon-rounded-two btn-danger" onclick="window.open('https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/api/reporting/jobs/download/l26jh54z000h9e8fa1d6ttzd')">Generate PDF</button>
                             </div>
                             <!-- <ul class="list-inline two-part-sp">
                                 <li>
@@ -922,7 +920,7 @@
                         <div class="white-box analytics-info-cs mg-b-10 res-mg-b-30 tb-sm-res-d-n dk-res-t-d-n">
                             <h3 class="box-title">Quick Report Generator</h3>
                             <div class="button-style-two btn-mg-b-10">
-                                <button type="button" class="btn btn-custon-rounded-two btn-danger" onclick="window.open('https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/api/reporting/jobs/download/l1z2nhyn000h9e8fa1aqlbq7')">Generate PNG</button>
+                                <button type="button" class="btn btn-custon-rounded-two btn-danger" onclick="window.open('https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/api/reporting/jobs/download/l26jh8kk000h9e8fa1430iq4')">Generate PNG</button>
                             </div>
                             <!-- <ul class="list-inline two-part-sp">
                                 <li>
@@ -934,7 +932,7 @@
                         <div class="white-box analytics-info-cs mg-b-10 res-mg-b-30 tb-sm-res-d-n dk-res-t-d-n">
                             <h3 class="box-title">Go to Kibana Dashboard</h3>
                             <div class="button-style-two btn-mg-b-10">
-                                <button type="button" class="btn btn-custon-rounded-two btn-primary" onclick="window.open('https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/app/r/s/red-rancid-midnight')">Kibana Dashboard</button>
+                                <button type="button" class="btn btn-custon-rounded-two btn-primary" onclick="window.open('https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/app/r/s/fit-whispering-lawyer')">Kibana Dashboard</button>
                             </div>
                             <!-- <ul class="list-inline two-part-sp">
                                 <li>
@@ -1019,15 +1017,17 @@
                             <div class="row">                                 
                                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                                     <h5>Company To Audit Status Ratio:</h5>
-                                    <iframe src="https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/app/r/s/deafening-numerous-fireman" height="600" width="850"></iframe></div>
+                                    <iframe src="https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/app/r/s/deafening-numerous-fireman" height="600" width="1200"></iframe>
+                            </div>
                         </div>
                     </div>
                 </div>
+                                    </div>
                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
                     <div class="white-box analytics-info-cs mg-b-10 res-mg-b-30 res-mg-t-30 table-mg-t-pro-n tb-sm-res-d-n dk-res-t-d-n">
                         <h3 class="box-title">Quick Report Generator</h3>
                         <div class="button-style-two btn-mg-b-10">
-                            <button type="button" class="btn btn-custon-rounded-two btn-danger" onclick="window.open('https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/api/reporting/jobs/download/l1z2fw31000h9e8fa1bn5ohb')">Generate PDF</button>
+                            <button type="button" class="btn btn-custon-rounded-two btn-danger" onclick="window.open('https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/api/reporting/jobs/download/l26jhpbr000h9e8fa1fwsj63')">Generate PDF</button>
                         </div>
                         <!-- <ul class="list-inline two-part-sp">
                             <li>
@@ -1039,7 +1039,7 @@
                     <div class="white-box analytics-info-cs mg-b-10 res-mg-b-30 tb-sm-res-d-n dk-res-t-d-n">
                         <h3 class="box-title">Quick Report Generator</h3>
                         <div class="button-style-two btn-mg-b-10">
-                            <button type="button" class="btn btn-custon-rounded-two btn-danger" onclick="window.open('https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/api/reporting/jobs/download/l1z2nhyn000h9e8fa1aqlbq7')">Generate PNG</button>
+                            <button type="button" class="btn btn-custon-rounded-two btn-danger" onclick="window.open('https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/api/reporting/jobs/download/l26jhrk1000h9e8fa1e30tr8')">Generate PNG</button>
                         </div>
                         <!-- <ul class="list-inline two-part-sp">
                             <li>
@@ -1051,7 +1051,7 @@
                     <div class="white-box analytics-info-cs mg-b-10 res-mg-b-30 tb-sm-res-d-n dk-res-t-d-n">
                         <h3 class="box-title">Go to Kibana Dashboard</h3>
                         <div class="button-style-two btn-mg-b-10">
-                            <button type="button" class="btn btn-custon-rounded-two btn-primary" onclick="window.open('https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/app/r/s/short-plain-child')">Kibana Dashboard</button>
+                            <button type="button" class="btn btn-custon-rounded-two btn-primary" onclick="window.open('https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/app/r/s/rhythmic-screeching-island')">Kibana Dashboard</button>
                         </div>
                         <!-- <ul class="list-inline two-part-sp">
                             <li>
@@ -1093,7 +1093,9 @@
                                 <div class="row">                                 
                                     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                                         <h5>Count of values showing illegal land acquisition </h5>
-                                        <iframe src="https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/app/r/s/gifted-shallow-jackal" height="600" width="850"></iframe></div>
+                                        <iframe src="https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/app/r/s/gifted-shallow-jackal" height="600" width="1200"></iframe>
+                                        </div>
+                                        </div>
                             </div>
                         </div>
                     </div>
@@ -1101,7 +1103,7 @@
                         <div class="white-box analytics-info-cs mg-b-10 res-mg-b-30 res-mg-t-30 table-mg-t-pro-n tb-sm-res-d-n dk-res-t-d-n">
                             <h3 class="box-title">Quick Report Generator</h3>
                             <div class="button-style-two btn-mg-b-10">
-                                <button type="button" class="btn btn-custon-rounded-two btn-danger" onclick="window.open('https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/api/reporting/jobs/download/l1z2fw31000h9e8fa1bn5ohb')">Generate PDF</button>
+                                <button type="button" class="btn btn-custon-rounded-two btn-danger" onclick="window.open('https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/api/reporting/jobs/download/l26jl8l4000h9e8fa1eqdmhk')">Generate PDF</button>
                             </div>
                             <!-- <ul class="list-inline two-part-sp">
                                 <li>
@@ -1113,7 +1115,7 @@
                         <div class="white-box analytics-info-cs mg-b-10 res-mg-b-30 tb-sm-res-d-n dk-res-t-d-n">
                             <h3 class="box-title">Quick Report Generator</h3>
                             <div class="button-style-two btn-mg-b-10">
-                                <button type="button" class="btn btn-custon-rounded-two btn-danger" onclick="window.open('https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/api/reporting/jobs/download/l1z2nhyn000h9e8fa1aqlbq7')">Generate PNG</button>
+                                <button type="button" class="btn btn-custon-rounded-two btn-danger" onclick="window.open('https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/api/reporting/jobs/download/l26jlasy000h9e8fa1cniw6p')">Generate PNG</button>
                             </div>
                             <!-- <ul class="list-inline two-part-sp">
                                 <li>
@@ -1125,7 +1127,7 @@
                         <div class="white-box analytics-info-cs mg-b-10 res-mg-b-30 tb-sm-res-d-n dk-res-t-d-n">
                             <h3 class="box-title">Go to Kibana Dashboard</h3>
                             <div class="button-style-two btn-mg-b-10">
-                                <button type="button" class="btn btn-custon-rounded-two btn-primary" onclick="window.open('https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/app/r/s/ambitious-rapping-tomato')">Kibana Dashboard</button>
+                                <button type="button" class="btn btn-custon-rounded-two btn-primary" onclick="window.open('https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/app/r/s/mysterious-fast-holiday')">Kibana Dashboard</button>
                             </div>
                             <!-- <ul class="list-inline two-part-sp">
                                 <li>
@@ -1159,157 +1161,7 @@
                 </div>
             </div>
         <!-- </div> -->
-        <div class="product-sales-area mg-tb-30">
-            <div class="container-fluid">
-                <div class="row">
-                    <div class="col-lg-9 col-md-12 col-sm-12 col-xs-12">
-                        <div class="product-sales-chart">
-                            <div class="portlet-title">
-                                <div class="row">                                 
-                                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                                        <h5>Unique Aadhar</h5>
-                                        <iframe src="https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/app/r/s/thousands-scruffy-barista" height="600" width="850"></iframe></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
-                        <div class="white-box analytics-info-cs mg-b-10 res-mg-b-30 res-mg-t-30 table-mg-t-pro-n tb-sm-res-d-n dk-res-t-d-n">
-                            <h3 class="box-title">Quick Report Generator</h3>
-                            <div class="button-style-two btn-mg-b-10">
-                                <button type="button" class="btn btn-custon-rounded-two btn-danger" onclick="window.open('https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/api/reporting/jobs/download/l1z2fw31000h9e8fa1bn5ohb')">Generate PDF</button>
-                            </div>
-                            <!-- <ul class="list-inline two-part-sp">
-                                <li>
-                                    <div id="sparklinedash"></div>
-                                </li>
-                                <li class="text-right sp-cn-r"><i class="fa fa-level-up" aria-hidden="true"></i> <span class="counter text-success">1500</span></li>
-                            </ul> -->
-                        </div>
-                        <div class="white-box analytics-info-cs mg-b-10 res-mg-b-30 tb-sm-res-d-n dk-res-t-d-n">
-                            <h3 class="box-title">Quick Report Generator</h3>
-                            <div class="button-style-two btn-mg-b-10">
-                                <button type="button" class="btn btn-custon-rounded-two btn-danger" onclick="window.open('https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/api/reporting/jobs/download/l1z2nhyn000h9e8fa1aqlbq7')">Generate PNG</button>
-                            </div>
-                            <!-- <ul class="list-inline two-part-sp">
-                                <li>
-                                    <div id="sparklinedash2"></div>
-                                </li>
-                                <li class="text-right graph-two-ctn"><i class="fa fa-level-up" aria-hidden="true"></i> <span class="counter text-purple">3000</span></li>
-                            </ul> -->
-                        </div>
-                        <div class="white-box analytics-info-cs mg-b-10 res-mg-b-30 tb-sm-res-d-n dk-res-t-d-n">
-                            <h3 class="box-title">Go to Kibana Dashboard</h3>
-                            <div class="button-style-two btn-mg-b-10">
-                                <button type="button" class="btn btn-custon-rounded-two btn-primary" onclick="window.open('https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/app/r/s/faint-tart-lunch')">Kibana Dashboard</button>
-                            </div>
-                            <!-- <ul class="list-inline two-part-sp">
-                                <li>
-                                    <div id="sparklinedash3"></div>
-                                </li>
-                                <li class="text-right graph-three-ctn"><i class="fa fa-level-up" aria-hidden="true"></i> <span class="counter text-info">5000</span></li>
-                            </ul> -->
-                        </div>
-                        
-                        <div class="white-box analytics-info-cs table-dis-n-pro tb-sm-res-d-n dk-res-t-d-n">
-                            <h3 class="box-title">Read related articles</h3>
-                            <div class="button-style-two btn-mg-b-10">
-                                <button type="button" class="btn btn-custon-rounded-two btn-primary" onclick="window.open('https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=human+trafficking+malaysia&btnG=&oq=human+trafficking+mala')">Read articles</button>
-                            </div>
-                            <!-- <ul class="list-inline two-part-sp">
-                                <li>
-                                    <div id="sparklinedash4"></div>
-                                </li>
-                                <li class="text-right graph-four-ctn"><i class="fa fa-level-down" aria-hidden="true"></i> <span class="text-danger"><span class="counter">18</span>%</span>
-                                </li>
-                            </ul> -->
-                        </div>
-                        <div class="white-box analytics-info-cs mg-b-10 res-mg-b-30 tb-sm-res-d-n dk-res-t-d-n">
-                            <h3 class="box-title">View Original Data</h3>
-                            <div class="button-style-two btn-mg-b-10">
-                                <button type="button" class="btn btn-custon-rounded-two btn-primary" onclick="window.open('https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/api/reporting/jobs/download/l1z4ny6p000h9e8fa1f0qup3')">View Dataview</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                </div>
-            </div>
-        <!-- </div> -->
-        <div class="product-sales-area mg-tb-30">
-            <div class="container-fluid">
-                <div class="row">
-                    <div class="col-lg-9 col-md-12 col-sm-12 col-xs-12">
-                        <div class="product-sales-chart">
-                            <div class="portlet-title">
-                                <div class="row">                                 
-                                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                                        <h5>KYC incomplete profiles</h5>
-                                       <iframe src="https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/app/r/s/unsightly-powerful-ambulance" height="600" width="850"></iframe> </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
-                        <div class="white-box analytics-info-cs mg-b-10 res-mg-b-30 res-mg-t-30 table-mg-t-pro-n tb-sm-res-d-n dk-res-t-d-n">
-                            <h3 class="box-title">Quick Report Generator</h3>
-                            <div class="button-style-two btn-mg-b-10">
-                                <button type="button" class="btn btn-custon-rounded-two btn-danger" onclick="window.open('https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/api/reporting/jobs/download/l1z2fw31000h9e8fa1bn5ohb')">Generate PDF</button>
-                            </div>
-                            <!-- <ul class="list-inline two-part-sp">
-                                <li>
-                                    <div id="sparklinedash"></div>
-                                </li>
-                                <li class="text-right sp-cn-r"><i class="fa fa-level-up" aria-hidden="true"></i> <span class="counter text-success">1500</span></li>
-                            </ul> -->
-                        </div>
-                        <div class="white-box analytics-info-cs mg-b-10 res-mg-b-30 tb-sm-res-d-n dk-res-t-d-n">
-                            <h3 class="box-title">Quick Report Generator</h3>
-                            <div class="button-style-two btn-mg-b-10">
-                                <button type="button" class="btn btn-custon-rounded-two btn-danger" onclick="window.open('https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/api/reporting/jobs/download/l1z2nhyn000h9e8fa1aqlbq7')">Generate PNG</button>
-                            </div>
-                            <!-- <ul class="list-inline two-part-sp">
-                                <li>
-                                    <div id="sparklinedash2"></div>
-                                </li>
-                                <li class="text-right graph-two-ctn"><i class="fa fa-level-up" aria-hidden="true"></i> <span class="counter text-purple">3000</span></li>
-                            </ul> -->
-                        </div>
-                        <div class="white-box analytics-info-cs mg-b-10 res-mg-b-30 tb-sm-res-d-n dk-res-t-d-n">
-                            <h3 class="box-title">Go to Kibana Dashboard</h3>
-                            <div class="button-style-two btn-mg-b-10">
-                                <button type="button" class="btn btn-custon-rounded-two btn-primary" onclick="window.open('https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/app/r/s/refined-repulsive-xylophone')">Kibana Dashboard</button>
-                            </div>
-                            <!-- <ul class="list-inline two-part-sp">
-                                <li>
-                                    <div id="sparklinedash3"></div>
-                                </li>
-                                <li class="text-right graph-three-ctn"><i class="fa fa-level-up" aria-hidden="true"></i> <span class="counter text-info">5000</span></li>
-                            </ul> -->
-                        </div>
-                        
-                        <div class="white-box analytics-info-cs table-dis-n-pro tb-sm-res-d-n dk-res-t-d-n">
-                            <h3 class="box-title">Read related articles</h3>
-                            <div class="button-style-two btn-mg-b-10">
-                                <button type="button" class="btn btn-custon-rounded-two btn-primary" onclick="window.open('https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=human+trafficking+malaysia&btnG=&oq=human+trafficking+mala')">Read articles</button>
-                            </div>
-                            <!-- <ul class="list-inline two-part-sp">
-                                <li>
-                                    <div id="sparklinedash4"></div>
-                                </li>
-                                <li class="text-right graph-four-ctn"><i class="fa fa-level-down" aria-hidden="true"></i> <span class="text-danger"><span class="counter">18</span>%</span>
-                                </li>
-                            </ul> -->
-                        </div>
-                        <div class="white-box analytics-info-cs mg-b-10 res-mg-b-30 tb-sm-res-d-n dk-res-t-d-n">
-                            <h3 class="box-title">View Original Data</h3>
-                            <div class="button-style-two btn-mg-b-10">
-                                <button type="button" class="btn btn-custon-rounded-two btn-primary" onclick="window.open('https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/api/reporting/jobs/download/l1z4ny6p000h9e8fa1f0qup3')">View Dataview</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                </div>
-            </div>
+        
         <!-- </div> -->
         <div class="product-sales-area mg-tb-30">
             <div class="container-fluid">
