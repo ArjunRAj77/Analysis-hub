@@ -91,6 +91,7 @@
                                 <li><a title="Add Library" href="money-launder.php"><span class="mini-sub-pro">Money Laundering</span></a></li>
                                 <li><a title="Edit Library" href="kyc.php"><span class="mini-sub-pro">KYC Due diligence</span></a></li>
                                 <li><a title="Edit Library" href="traffic-analysis.php"><span class="mini-sub-pro">Traffic Analysis</span></a></li>
+                                <li><a title="Edit Library" href="palm-oil.php"><span class="mini-sub-pro">Palm Oil Data Analysis</span></a></li>
                             </ul>
                         </li>
                         <li>
