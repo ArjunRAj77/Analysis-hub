@@ -91,6 +91,7 @@
                                 <li><a title="Add Library" href="money-launder.php"><span class="mini-sub-pro">Money Laundering</span></a></li>
                                 <li><a title="Edit Library" href="kyc.php"><span class="mini-sub-pro">KYC Due diligence</span></a></li>
                                 <li><a title="Edit Library" href="traffic-analysis.php"><span class="mini-sub-pro">Traffic Analysis</span></a></li>
+                                <li><a title="Edit Library" href="palm-oil.php"><span class="mini-sub-pro">Palm Oil Data Analysis</span></a></li>
                             </ul>
                         </li>
                         <li>
@@ -898,9 +899,9 @@
                             <div class="portlet-title">
                                 <div class="row">                                 
                                     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                                        <h5>KYC incomplete User Profile : PAN </h5>
-                                        <iframe src="https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/app/dashboards#/view/080d99b0-be21-11ec-9f2b-fb35fdd02b7b?embed=true&_g=(filters%3A!()%2CrefreshInterval%3A(pause%3A!t%2Cvalue%3A0)%2Ctime%3A(from%3Anow-30m%2Cto%3Anow))&show-top-menu=true&show-query-input=true&show-time-filter=true" height="600" width="850"></iframe>
-                                     </div>
+                                        <h5>Palm oil sector factories:</h5>
+                                        <iframe src="https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/app/r/s/hissing-plump-author" height="600" width="850"></iframe> 
+                                        </div>
                                 </div>
                             </div>
                         </div>
@@ -1017,9 +1018,8 @@
                         <div class="portlet-title">
                             <div class="row">                                 
                                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                                    <h5>KYC incomplete User Profile : Aadhar</h5>
-                                <iframe src="https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/app/r/s/salmon-beautiful-breakfast" height="600" width="850"></iframe> </div>
-                            </div>
+                                    <h5>Company To Audit Status Ratio:</h5>
+                                    <iframe src="https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/app/r/s/deafening-numerous-fireman" height="600" width="850"></iframe></div>
                         </div>
                     </div>
                 </div>
@@ -1092,9 +1092,8 @@
                             <div class="portlet-title">
                                 <div class="row">                                 
                                     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                                        <h5>Total Records</h5>
-                                       <iframe src="https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/app/r/s/red-numerous-insurance" height="600" width="850"></iframe></div>
-                                </div>
+                                        <h5>Count of values showing illegal land acquisition </h5>
+                                        <iframe src="https://my-deployment-edbfd0.kb.us-central1.gcp.cloud.es.io:9243/app/r/s/gifted-shallow-jackal" height="600" width="850"></iframe></div>
                             </div>
                         </div>
                     </div>
