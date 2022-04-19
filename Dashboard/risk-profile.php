@@ -1747,7 +1747,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="footer-copy-right">
-                            <p>Copyright © 2020. All rights reserved. Team Inevitables</p>
+                            <p>Copyright © 2022. All rights reserved. Team Inevitables</p>
                         </div>
                     </div>
                 </div>
