@@ -864,7 +864,7 @@
                             <div class="analytics-content">
                                 <h5>Palm Oil Sector Analysis</h5>
                                 <div class="button-style-two btn-mg-b-10">
-                                    <button type="button" class="btn btn-custon-rounded-two btn-success" onclick="window.location.href='risk-profile.php'">Check Now</button>
+                                    <button type="button" class="btn btn-custon-rounded-two btn-success" onclick="window.location.href='palm-oil.php'">Check Now</button>
                                 </div>
                             </div>
                         </div>
