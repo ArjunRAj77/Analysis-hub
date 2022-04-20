@@ -872,9 +872,9 @@
                     <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                         <div class="analytics-sparkle-line reso-mg-b-30">
                             <div class="analytics-content">
-                                <h5>Money Laundering Identifier</h5>
+                                <h5>Related news search</h5>
                                 <div class="button-style-two btn-mg-b-10">
-                                    <button type="button" class="btn btn-custon-rounded-two btn-success" onclick="window.location.href='money-launder.php'">Check Now</button>
+                                    <button type="button" class="btn btn-custon-rounded-two btn-primary" onclick="window.open('https://visual-insights.bluemix.net/')">IBM Watson articles</button>
                                 </div>
                                 <!-- <h2>$<span class="counter">3000</span> <span class="tuition-fees">Tuition Fees</span></h2>
                                 <span class="text-danger">30%</span>
@@ -887,9 +887,9 @@
                     <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                         <div class="analytics-sparkle-line reso-mg-b-30 table-mg-t-pro dk-res-t-pro-30">
                             <div class="analytics-content">
-                                <h5>KYC and Due Diligence Identifier</h5>
+                                <h5>Related news search</h5>
                                 <div class="button-style-two btn-mg-b-10">
-                                    <button type="button" class="btn btn-custon-rounded-two btn-success" onclick="window.location.href='kyc.php'">Check Now</button>
+                                    <button type="button" class="btn btn-custon-rounded-two btn-primary" onclick="window.open('https://scholar.google.com/')">Google Scholar articles</button>
                                 </div>
                                 <!-- <h2>$<span class="counter">2000</span> <span class="tuition-fees">Tuition Fees</span></h2>
                                 <span class="text-info">60%</span>
@@ -902,9 +902,9 @@
                     <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                         <div class="analytics-sparkle-line table-mg-t-pro dk-res-t-pro-30">
                             <div class="analytics-content">
-                                <h5>Traffic Analysis</h5>
+                                <h5>Login to Kibana</h5>
                                 <div class="button-style-two btn-mg-b-10">
-                                    <button type="button" class="btn btn-custon-rounded-two btn-success" onclick="window.location.href='traffic-analysis.php'">Check Now</button>
+                                    <button type="button" class="btn btn-custon-rounded-two btn-primary" onclick="window.open('https://cloud.elastic.co/login?redirectTo=%2Fhome')">Kibana Login</button>
                                 </div>
                                 <!-- <h2>$<span class="counter">3500</span> <span class="tuition-fees">Tuition Fees</span></h2>
                                 <span class="text-inverse">80%</span>
