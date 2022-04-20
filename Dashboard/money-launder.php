@@ -89,8 +89,8 @@
                             <ul class="submenu-angle" aria-expanded="false">
                                 <li><a title="All Library" href="risk-profile.php"><span class="mini-sub-pro">Risk Profiling</span></a></li>
                                 <li><a title="Add Library" href="money-launder.php"><span class="mini-sub-pro">Money Laundering</span></a></li>
-                                <li><a title="Edit Library" href="kyc.html"><span class="mini-sub-pro">KYC Due diligence</span></a></li>
-                                <li><a title="Edit Library" href="traffic-analysis.html"><span class="mini-sub-pro">Traffic Analysis</span></a></li>
+                                <li><a title="Edit Library" href="kyc.php"><span class="mini-sub-pro">KYC Due diligence</span></a></li>
+                                <li><a title="Edit Library" href="traffic-analysis.php"><span class="mini-sub-pro">Traffic Analysis</span></a></li>
                             </ul>
                         </li>
                         <li>
